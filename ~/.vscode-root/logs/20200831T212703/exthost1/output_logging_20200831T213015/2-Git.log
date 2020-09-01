@@ -1,0 +1,209 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /var/www/angular-firebase
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/angular-firebase/package.json
+> git cat-file -s 444e0587ec09a042df51efeea0a7ae0daa2164a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/app.component.css
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.html
+> git cat-file -s e48d8c109d668d9b5c5f25e0c2831bbe48d3cc1d
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git show --textconv :src/main.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/main.ts
+> git cat-file -s c7b673cf44b388e9989fe908b78d7d73cd2e1409
+> git show --textconv :src/styles.css
+> git ls-files --stage -- /var/www/angular-firebase/src/styles.css
+> git cat-file -s 90d4ee0072ce3fc41812f8af910219f9eea3c3de
+> git show --textconv :src/app/app.component.css
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/environments/environment.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/environments/environment.ts
+> git cat-file -s 7b4f817adb754769ca126a939d48ac4b0850489d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/angular-firebase/package.json
+> git cat-file -s 444e0587ec09a042df51efeea0a7ae0daa2164a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/environments/environment.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/environments/environment.ts
+> git cat-file -s 7b4f817adb754769ca126a939d48ac4b0850489d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/environments/environment.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/environments/environment.ts
+> git cat-file -s 7b4f817adb754769ca126a939d48ac4b0850489d
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db-data.ts
+> git ls-files --stage -- /var/www/angular-firebase/db-data.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git ls-files --stage -- /var/www/angular-firebase/db-data.ts
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :db-data.ts
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/angular-firebase/.gitignore
+> git cat-file -s 86d943a9b2e8f3bb69fbe37fd8363962646b1d92
+> git show --textconv :db-data.ts
+> git ls-files --stage -- /var/www/angular-firebase/db-data.ts
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git status -z -u
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s 83cfbce0ab774481284a188432ab4f5f8a0f04e7
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :init-db.ts
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,8 @@
+[Info  - 9:34:17 PM] Angular language server process ID: 13834
+[Info  - 9:34:17 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 9:34:17 PM] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 9:34:17 PM] Log file: /var/www/angular-firebase/~/.vscode-root/logs/20200831T212703/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 9:34:21 PM] No config file for /root/.vscode/extensions/eamodio.gitlens-10.2.2/dist/webviews/welcome.html
+[Info  - 9:35:28 PM] Disabling language service for /var/www/angular-firebase/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Info  - 9:35:28 PM] Enabling language service for /var/www/angular-firebase/tsconfig.app.json.
+[Info  - 9:35:31 PM] Enabling language service for /var/www/angular-firebase/tsconfig.spec.json.

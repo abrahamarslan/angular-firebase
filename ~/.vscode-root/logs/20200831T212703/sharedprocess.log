@@ -1,0 +1,147 @@
+[2020-08-31 21:27:47.173] [sharedprocess] [info] main {"machineId":"65ec9cf43ae62cd43d6c785935021dfaad06fc54a1e64210bb1987a46c1da34b","windowId":2}
+[2020-08-31 21:27:47.355] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/angular-firebase/~/.vscode-root/User/snippets'
+[2020-08-31 21:28:27.195] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-31 21:30:44.481] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-08-31 21:30:46.835] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-08-31 21:30:52.910] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-08-31 21:30:54.786] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2020-08-31 21:30:55.299] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-08-31 21:30:57.718] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-08-31 21:30:58.200] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-08-31 21:30:58.200] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2020-08-31 21:30:58.201] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-08-31 21:30:58.206] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-08-31 21:31:04.683] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/esbenp.prettier-vscode-5.5.0
+[2020-08-31 21:31:04.923] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-5.5.0: esbenp.prettier-vscode
+[2020-08-31 21:31:04.923] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-5.5.0
+[2020-08-31 21:31:04.924] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-08-31 21:31:04.929] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-08-31 21:31:06.511] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-08-31 21:31:13.720] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.8
+[2020-08-31 21:31:13.770] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.8: dbaeumer.vscode-eslint
+[2020-08-31 21:31:13.774] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8
+[2020-08-31 21:31:13.776] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-08-31 21:31:13.778] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-08-31 21:31:13.824] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-08-31 21:31:23.882] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.12.10
+[2020-08-31 21:31:24.837] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.10: msjsdiag.debugger-for-chrome
+[2020-08-31 21:31:24.837] [sharedprocess] [info] Renamed to /root/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.10
+[2020-08-31 21:31:24.838] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2020-08-31 21:31:24.847] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2020-08-31 21:31:25.015] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2020-08-31 21:31:25.393] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/eamodio.gitlens-10.2.2
+[2020-08-31 21:31:25.877] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-08-31 21:31:25.877] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eamodio.gitlens-10.2.2
+[2020-08-31 21:31:25.880] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-08-31 21:31:25.890] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-08-31 21:31:28.293] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/formulahendry.code-runner-0.11.0
+[2020-08-31 21:31:28.592] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.5.0
+[2020-08-31 21:31:28.698] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.code-runner-0.11.0: formulahendry.code-runner
+[2020-08-31 21:31:28.699] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.code-runner-0.11.0
+[2020-08-31 21:31:28.700] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2020-08-31 21:31:28.714] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2020-08-31 21:31:29.309] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-08-31 21:31:29.698] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-azuretools.vscode-docker-1.5.0: ms-azuretools.vscode-docker
+[2020-08-31 21:31:29.698] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-1.5.0
+[2020-08-31 21:31:29.700] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-08-31 21:31:29.866] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-08-31 21:31:31.908] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2020-08-31 21:31:37.612] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2020-08-31 21:31:49.933] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-intellisense-2.3.14
+[2020-08-31 21:31:51.850] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2020-08-31 21:31:51.940] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2020-08-31 21:31:51.941] [sharedprocess] [info] Renamed to /root/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2020-08-31 21:31:51.942] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2020-08-31 21:31:51.946] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2020-08-31 21:31:52.528] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-08-31 21:31:52.529] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2020-08-31 21:31:52.529] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-08-31 21:31:52.531] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2020-08-31 21:31:52.693] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2020-08-31 21:31:55.619] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2020-08-31 21:31:57.832] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2020-08-31 21:31:57.843] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+[2020-08-31 21:31:57.843] [sharedprocess] [info] Renamed to /root/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+[2020-08-31 21:31:57.844] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2020-08-31 21:31:57.845] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets
+[2020-08-31 21:31:58.901] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-08-31 21:32:04.280] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/redhat.vscode-yaml-0.10.1
+[2020-08-31 21:32:04.357] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-08-31 21:32:04.449] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/ecmel.vscode-html-css-0.2.3
+[2020-08-31 21:32:04.516] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-08-31 21:32:04.516] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ecmel.vscode-html-css-0.2.3
+[2020-08-31 21:32:04.517] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2020-08-31 21:32:04.521] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-08-31 21:32:05.818] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2020-08-31 21:32:06.316] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.redhat.vscode-yaml-0.10.1: redhat.vscode-yaml
+[2020-08-31 21:32:06.316] [sharedprocess] [info] Renamed to /root/.vscode/extensions/redhat.vscode-yaml-0.10.1
+[2020-08-31 21:32:06.317] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2020-08-31 21:32:07.228] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2020-08-31 21:32:11.795] [sharedprocess] [info] Installing extension: wscats.eno
+[2020-08-31 21:32:21.480] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-1.0.61
+[2020-08-31 21:32:21.480] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.4
+[2020-08-31 21:32:21.480] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-debug-1.13.0
+[2020-08-31 21:32:21.567] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2020-08-31 21:32:21.830] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-rename-tag-0.1.4: formulahendry.auto-rename-tag
+[2020-08-31 21:32:21.830] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.4
+[2020-08-31 21:32:21.831] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-08-31 21:32:21.853] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-08-31 21:32:23.399] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-debug-1.13.0: felixfbecker.php-debug
+[2020-08-31 21:32:23.399] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-debug-1.13.0
+[2020-08-31 21:32:23.400] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2020-08-31 21:32:23.407] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-08-31 21:32:23.407] [sharedprocess] [info] Renamed to /root/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-08-31 21:32:23.408] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-08-31 21:32:23.468] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2020-08-31 21:32:23.469] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2020-08-31 21:32:26.682] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.2.1
+[2020-08-31 21:32:26.760] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.christian-kohler.path-intellisense-2.2.1: christian-kohler.path-intellisense
+[2020-08-31 21:32:26.761] [sharedprocess] [info] Renamed to /root/.vscode/extensions/christian-kohler.path-intellisense-2.2.1
+[2020-08-31 21:32:26.761] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2020-08-31 21:32:26.774] [sharedprocess] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2020-08-31 21:32:27.570] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2020-08-31 21:32:28.516] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-08-31 21:32:29.987] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-08-31 21:32:29.987] [sharedprocess] [info] Renamed to /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-08-31 21:32:29.988] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-08-31 21:32:30.138] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-08-31 21:32:32.584] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.13
+[2020-08-31 21:32:32.727] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eg2.vscode-npm-script-0.3.13: eg2.vscode-npm-script
+[2020-08-31 21:32:32.728] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eg2.vscode-npm-script-0.3.13
+[2020-08-31 21:32:32.728] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
+[2020-08-31 21:32:32.840] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2020-08-31 21:32:32.975] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-08-31 21:32:48.309] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2020-08-31 21:32:48.892] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.8
+[2020-08-31 21:32:48.947] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-close-tag-0.5.8: formulahendry.auto-close-tag
+[2020-08-31 21:32:48.947] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-close-tag-0.5.8
+[2020-08-31 21:32:48.948] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-08-31 21:32:48.949] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-08-31 21:32:54.776] [sharedprocess] [info] Installing extension: johnpapa.angular2
+[2020-08-31 21:32:58.232] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.3.0
+[2020-08-31 21:32:58.311] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.christian-kohler.npm-intellisense-1.3.0: christian-kohler.npm-intellisense
+[2020-08-31 21:32:58.312] [sharedprocess] [info] Renamed to /root/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0
+[2020-08-31 21:32:58.313] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense
+[2020-08-31 21:32:58.316] [sharedprocess] [info] Extensions installed successfully: christian-kohler.npm-intellisense
+[2020-08-31 21:33:11.139] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2020-08-31 21:33:14.229] [sharedprocess] [info] Downloaded extension: johnpapa.angular2 /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/johnpapa.angular2-9.1.2
+[2020-08-31 21:33:14.381] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.johnpapa.angular2-9.1.2: johnpapa.angular2
+[2020-08-31 21:33:14.382] [sharedprocess] [info] Renamed to /root/.vscode/extensions/johnpapa.angular2-9.1.2
+[2020-08-31 21:33:14.382] [sharedprocess] [info] Installation completed. johnpapa.angular2
+[2020-08-31 21:33:14.384] [sharedprocess] [info] Extensions installed successfully: johnpapa.angular2
+[2020-08-31 21:33:15.494] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-2.8.3
+[2020-08-31 21:33:15.528] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dsznajder.es7-react-js-snippets-2.8.3: dsznajder.es7-react-js-snippets
+[2020-08-31 21:33:15.529] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dsznajder.es7-react-js-snippets-2.8.3
+[2020-08-31 21:33:15.529] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2020-08-31 21:33:15.531] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2020-08-31 21:33:58.627] [sharedprocess] [info] Downloaded extension: wscats.eno /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/wscats.eno-2.3.15
+[2020-08-31 21:33:58.750] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-08-31 21:34:14.878] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.wscats.eno-2.3.15: wscats.eno
+[2020-08-31 21:34:14.879] [sharedprocess] [info] Renamed to /root/.vscode/extensions/wscats.eno-2.3.15
+[2020-08-31 21:34:14.880] [sharedprocess] [info] Installation completed. wscats.eno
+[2020-08-31 21:34:14.885] [sharedprocess] [info] Extensions installed successfully: wscats.eno
+[2020-08-31 21:34:15.403] [sharedprocess] [info] Downloaded extension: angular.ng-template /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/angular.ng-template-0.1000.8
+[2020-08-31 21:34:16.685] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.angular.ng-template-0.1000.8: angular.ng-template
+[2020-08-31 21:34:16.685] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-0.1000.8
+[2020-08-31 21:34:16.687] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-08-31 21:34:16.690] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
