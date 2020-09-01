@@ -80,3 +80,8 @@
 [2020-08-31 21:35:20.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
 [2020-09-01 12:28:15.965] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
 [2020-09-01 12:28:15.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.code-runner-0.11.0/out/src/extension
+[2020-09-02 00:21:01.571] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-09-02 00:21:01.889] [exthost] [error] Canceled: Canceled
+    at _.makeCancelError (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:60830)
+    at _.handleFailedRequest (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:60684)
+    at /usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:23462

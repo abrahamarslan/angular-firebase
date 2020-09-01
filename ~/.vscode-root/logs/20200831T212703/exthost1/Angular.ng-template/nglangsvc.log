@@ -2634,3 +2634,208 @@ Info 2550 [16:14:17.645] Search path: /var/www/angular-firebase
 Info 2551 [16:14:17.645] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
 Info 2552 [16:14:17.648] Search path: /var/www/angular-firebase/src/app
 Info 2553 [16:14:17.648] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2554 [0:19:39.51] Search path: /var/www/angular-firebase/src/app
+Info 2555 [0:19:39.51] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2556 [0:19:39.51] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2557 [0:19:39.223] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 200 structureChanged: false Elapsed: 172ms
+Info 2558 [0:19:39.223] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2559 [0:19:39.552] Search path: /var/www/angular-firebase/src/app
+Info 2560 [0:19:39.552] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2561 [0:19:40.240] Search path: /var/www/angular-firebase/src/app
+Info 2562 [0:19:40.240] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2563 [0:19:47.370] Search path: /var/www/angular-firebase/src/app
+Info 2564 [0:19:47.370] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2565 [0:19:47.573] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2566 [0:19:47.693] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 201 structureChanged: false Elapsed: 120ms
+Info 2567 [0:19:47.693] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2568 [0:19:47.693] Search path: /var/www/angular-firebase
+Info 2569 [0:19:47.693] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2570 [0:19:47.778] Search path: /var/www/angular-firebase/src/app
+Info 2571 [0:19:47.778] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2572 [0:19:53.320] Search path: /var/www/angular-firebase/src/app
+Info 2573 [0:19:53.320] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2574 [0:19:53.520] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2575 [0:19:53.734] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 202 structureChanged: false Elapsed: 214ms
+Info 2576 [0:19:53.734] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2577 [0:19:53.735] Search path: /var/www/angular-firebase
+Info 2578 [0:19:53.737] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2579 [0:19:53.746] Search path: /var/www/angular-firebase/src/app
+Info 2580 [0:19:53.747] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2581 [0:20:4.936] Search path: /var/www/angular-firebase/src/app
+Info 2582 [0:20:4.950] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2583 [0:20:5.151] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2584 [0:20:5.202] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 203 structureChanged: false Elapsed: 51ms
+Info 2585 [0:20:5.202] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2586 [0:20:5.203] Search path: /var/www/angular-firebase
+Info 2587 [0:20:5.203] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2588 [0:20:5.209] Search path: /var/www/angular-firebase/src/app
+Info 2589 [0:20:5.209] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2590 [0:20:11.162] Search path: /var/www/angular-firebase/src/app
+Info 2591 [0:20:11.162] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2592 [0:20:11.363] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2593 [0:20:11.422] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 204 structureChanged: false Elapsed: 59ms
+Info 2594 [0:20:11.422] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2595 [0:20:11.423] Search path: /var/www/angular-firebase
+Info 2596 [0:20:11.423] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2597 [0:20:11.427] Search path: /var/www/angular-firebase/src/app
+Info 2598 [0:20:11.427] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2599 [0:21:41.492] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2600 [0:21:41.937] Elapsed:: 438ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2601 [0:21:41.938] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2602 [0:21:42.49] Elapsed:: 111ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2603 [0:21:42.49] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2604 [0:21:42.50] Elapsed:: 1ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2605 [0:21:42.50] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2606 [0:21:42.88] Elapsed:: 38ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2607 [0:21:44.62] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2608 [0:21:44.64] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 205 structureChanged: false Elapsed: 2ms
+Info 2609 [0:21:44.64] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 2610 [0:22:3.811] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 2611 [0:22:3.871] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 39 structureChanged: true Elapsed: 60ms
+Info 2612 [0:22:3.872] Project '/var/www/angular-firebase/tsconfig.spec.json' (Configured)
+Info 2613 [0:22:3.889] 	Files (111)
+
+Info 2614 [0:22:3.889] -----------------------------------------------
+Info 2615 [0:22:4.42] Search path: /var/www/angular-firebase/src/model
+Info 2616 [0:22:4.43] For info: /var/www/angular-firebase/src/model/course.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2617 [0:22:4.324] Loading global plugin @angular/language-service
+Info 2618 [0:22:4.324] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 2619 [0:22:4.325] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 2620 [0:22:5.874] Plugin validation succeded
+Info 2621 [0:22:5.917] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 2622 [0:22:52.851] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 46934ms
+Info 2623 [0:22:52.851] Project '/dev/null/inferredProject3*' (Inferred)
+Info 2624 [0:22:52.851] 	Files (103)
+
+Info 2625 [0:22:52.851] -----------------------------------------------
+Info 2626 [0:22:52.857] Before ensureProjectForOpenFiles:
+Info 2627 [0:22:52.857] After ensureProjectForOpenFiles:
+Info 2628 [0:22:52.857] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2629 [0:22:52.857] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2630 [0:22:52.857] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2631 [0:22:52.862] Elapsed:: 5ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2632 [0:22:52.862] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2633 [0:22:52.862] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2634 [0:22:52.862] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2635 [0:22:52.864] Elapsed:: 2ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2636 [0:22:52.866] Search path: /var/www/angular-firebase/src/model
+Info 2637 [0:22:52.866] For info: /var/www/angular-firebase/src/model/lesson.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2638 [0:22:53.1] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2639 [0:22:53.4] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 206 structureChanged: true Elapsed: 3ms
+Info 2640 [0:22:53.4] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 2641 [0:22:53.63] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 2642 [0:22:53.66] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 40 structureChanged: true Elapsed: 3ms
+Info 2643 [0:22:53.66] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 2644 [0:22:53.68] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 2645 [0:22:53.83] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 2 structureChanged: true Elapsed: 15ms
+Info 2646 [0:22:53.83] Project '/dev/null/inferredProject3*' (Inferred)
+Info 2647 [0:22:53.83] 	Files (104)
+
+Info 2648 [0:22:53.83] -----------------------------------------------
+Info 2649 [0:22:53.84] Search path: /var/www/angular-firebase
+Info 2650 [0:22:53.84] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2651 [0:22:53.88] Search path: /var/www/angular-firebase/src/app
+Info 2652 [0:22:53.88] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2653 [0:22:53.88] Search path: /var/www/angular-firebase/src/model
+Info 2654 [0:22:53.88] For info: /var/www/angular-firebase/src/model/course.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2655 [0:22:53.868] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2656 [0:22:53.868] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2657 [0:22:53.868] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2658 [0:22:53.872] Elapsed:: 4ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2659 [0:22:53.872] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2660 [0:22:53.872] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2661 [0:22:53.872] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2662 [0:22:53.874] Elapsed:: 2ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2663 [0:22:54.158] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2664 [0:22:54.160] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 207 structureChanged: true Elapsed: 2ms
+Info 2665 [0:22:54.160] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 2666 [0:22:54.186] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 2667 [0:22:54.188] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 41 structureChanged: true Elapsed: 2ms
+Info 2668 [0:22:54.188] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 2669 [0:22:56.374] Before ensureProjectForOpenFiles:
+Info 2670 [0:22:56.374] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 2671 [0:22:56.402] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 3 structureChanged: true Elapsed: 27ms
+Info 2672 [0:22:56.402] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 2673 [0:22:56.403] After ensureProjectForOpenFiles:
+Info 2674 [0:22:56.605] Search path: /var/www/angular-firebase
+Info 2675 [0:22:56.605] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2676 [0:22:56.610] Search path: /var/www/angular-firebase/src/app
+Info 2677 [0:22:56.610] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2678 [0:22:56.611] Search path: /var/www/angular-firebase/src/model
+Info 2679 [0:22:56.611] For info: /var/www/angular-firebase/src/model/lesson.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2680 [0:22:56.611] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json
+Info 2681 [0:22:56.611] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json Version: 5 structureChanged: false Elapsed: 0ms
+Info 2682 [0:22:56.612] Project '/var/www/angular-firebase/tsconfig.json' (Configured)
+Info 2683 [0:22:56.612] 	Files (0)
+
+Info 2684 [0:22:56.612] -----------------------------------------------
+Info 2685 [0:24:5.487] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2686 [0:24:5.573] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 208 structureChanged: true Elapsed: 86ms
+Info 2687 [0:24:5.573] Project '/var/www/angular-firebase/tsconfig.app.json' (Configured)
+Info 2688 [0:24:5.573] 	Files (206)
+
+Info 2689 [0:24:5.573] -----------------------------------------------
+Info 2690 [0:24:5.577] Search path: /var/www/angular-firebase
+Info 2691 [0:24:5.577] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2692 [0:24:5.581] Search path: /var/www/angular-firebase/src/app
+Info 2693 [0:24:5.581] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2694 [0:24:5.772] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2695 [0:24:5.772] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2696 [0:24:5.772] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2697 [0:24:5.777] Elapsed:: 5ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2698 [0:24:5.777] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2699 [0:24:5.777] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2700 [0:24:5.777] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2701 [0:24:5.779] Elapsed:: 2ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2702 [0:24:6.666] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2703 [0:24:6.666] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 209 structureChanged: false Elapsed: 0ms
+Info 2704 [0:24:6.705] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 2705 [0:24:6.710] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 42 structureChanged: true Elapsed: 5ms
+Info 2706 [0:24:6.710] Project '/var/www/angular-firebase/tsconfig.spec.json' (Configured)
+Info 2707 [0:24:6.710] 	Files (111)
+
+Info 2708 [0:24:6.710] -----------------------------------------------
+Info 2709 [0:24:8.280] Before ensureProjectForOpenFiles:
+Info 2710 [0:24:8.280] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 2711 [0:24:8.309] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 4 structureChanged: true Elapsed: 29ms
+Info 2712 [0:24:8.309] Project '/dev/null/inferredProject3*' (Inferred)
+Info 2713 [0:24:8.309] 	Files (0)
+
+Info 2714 [0:24:8.309] -----------------------------------------------
+Info 2715 [0:24:8.309] After ensureProjectForOpenFiles:
+Info 2716 [0:24:8.510] Search path: /var/www/angular-firebase
+Info 2717 [0:24:8.510] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2718 [0:24:8.514] Search path: /var/www/angular-firebase/src/app
+Info 2719 [0:24:8.514] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2720 [0:24:23.644] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2721 [0:24:23.809] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 210 structureChanged: true Elapsed: 165ms
+Info 2722 [0:24:23.810] Project '/var/www/angular-firebase/tsconfig.app.json' (Configured)
+Info 2723 [0:24:23.810] 	Files (208)
+
+Info 2724 [0:24:23.810] -----------------------------------------------
+Info 2725 [0:24:23.811] Search path: /var/www/angular-firebase
+Info 2726 [0:24:23.811] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2727 [0:24:23.821] Search path: /var/www/angular-firebase/src/app
+Info 2728 [0:24:23.821] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2729 [0:24:24.377] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2730 [0:24:24.377] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Wild card directory
+Info 2731 [0:24:24.377] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2732 [0:24:24.380] Elapsed:: 3ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 2733 [0:24:24.380] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2734 [0:24:24.380] Elapsed:: 0ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Wild card directory
+Info 2735 [0:24:24.381] DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2736 [0:24:24.382] Elapsed:: 1ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/src :: WatchInfo: /var/www/angular-firebase/src 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 2737 [0:24:24.650] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 2738 [0:24:24.650] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 211 structureChanged: false Elapsed: 0ms
+Info 2739 [0:24:24.744] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 2740 [0:24:24.750] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 43 structureChanged: true Elapsed: 5ms
+Info 2741 [0:24:24.751] Project '/var/www/angular-firebase/tsconfig.spec.json' (Configured)
+Info 2742 [0:24:24.751] 	Files (113)
+
+Info 2743 [0:24:24.751] -----------------------------------------------
+Info 2744 [0:24:26.883] Before ensureProjectForOpenFiles:
+Info 2745 [0:24:26.883] After ensureProjectForOpenFiles:
+Info 2746 [0:24:27.85] Search path: /var/www/angular-firebase
+Info 2747 [0:24:27.85] For info: /var/www/angular-firebase/db-data.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 2748 [0:24:27.91] Search path: /var/www/angular-firebase/src/app
+Info 2749 [0:24:27.91] For info: /var/www/angular-firebase/src/app/app.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
