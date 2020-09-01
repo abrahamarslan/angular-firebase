@@ -1461,10 +1461,10 @@
             "folder": "file:///var/www/angular-firebase",
             "backupPath": "/var/www/angular-firebase/~/.vscode-root/Backups/e6b9906b17d32631cdbf8822cbd4be2b",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 67,
                 "y": 55,
-                "width": 927,
+                "width": 1853,
                 "height": 1025
             }
         },

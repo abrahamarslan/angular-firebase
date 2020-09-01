@@ -1,0 +1,74 @@
+[2020-09-01 16:01:23.110] [renderer1] [error] Cannot read property 'toString' of undefined: TypeError: Cannot read property 'toString' of undefined
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4201
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4284
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4419
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at y.onCompletionAccepted (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:107629)
+    at y.execute (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:163923)
+    at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:374)
+    at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:641:561)
+    at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:641:467)
+    at b._executeConvertedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:644:261)
+    at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:374)
+    at _.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:749)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:819:926)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:819:618)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:818:252)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:817:6)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:815:161
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:494)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1007:179
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:494)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:244:17)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:67
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:949)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:301
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:572)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-01 16:02:51.436] [renderer1] [error] Cannot read property 'toString' of undefined: TypeError: Cannot read property 'toString' of undefined
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4201
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4284
+    at /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode.js:277:4419
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at y.onCompletionAccepted (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:107629)
+    at y.execute (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:163923)
+    at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:374)
+    at _doExecuteCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:641:561)
+    at _.executeCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:641:467)
+    at b._executeConvertedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:644:261)
+    at _executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:374)
+    at _.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:749)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:819:926)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:819:618)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:818:252)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:817:6)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:815:161
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:494)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1007:179
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:494)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:244:17)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:67
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:222)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:949)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:301
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:572)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-01 16:05:35.845] [renderer1] [warning] UNRESPONSIVE extension host, 'eamodio.gitlens' took 84% of 1978.13ms, saved PROFILE here: '/tmp/exthost-89df4d.cpuprofile' [{"id":"eamodio.gitlens","total":1666366,"percentage":84}]
+[2020-09-01 16:10:23.484] [renderer1] [warning] {}
+[2020-09-01 16:10:27.991] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.typescript-language-features' took 97% of 927.259ms, saved PROFILE here: '/tmp/exthost-5f82ed.cpuprofile' [{"id":"Angular.ng-template","total":1854,"percentage":0},{"id":"dbaeumer.vscode-eslint","total":10382,"percentage":1},{"id":"eamodio.gitlens","total":14168,"percentage":2},{"id":"eg2.vscode-npm-script","total":1379,"percentage":0},{"id":"formulahendry.auto-rename-tag","total":3519,"percentage":0},{"id":"vscode.typescript-language-features","total":895533,"percentage":97}]
+[2020-09-01 16:14:14.453] [renderer1] [warning] UNRESPONSIVE extension host, 'Angular.ng-template' took 100% of 4836.575ms, saved PROFILE here: '/tmp/exthost-bb0b8f.cpuprofile' [{"id":"Angular.ng-template","total":4831120,"percentage":100},{"id":"vscode.typescript-language-features","total":5158,"percentage":0}]

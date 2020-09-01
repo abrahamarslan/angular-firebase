@@ -1,0 +1,5 @@
+[Running] ts-node "/var/www/angular-firebase/init-db.ts"
+/bin/sh: 1: ts-node: not found
+
+[Done] exited with code=127 in 0.012 seconds
+

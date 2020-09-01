@@ -207,3 +207,233 @@ fatal: no upstream configured for branch 'master'
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git rev-parse master
+> git show --textconv :init-db.ts
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.module.ts
+> git cat-file -s 1f2ce36e1a3c9a1e3875de63e92bef80eab4eb80
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/angular-firebase/.gitignore
+> git cat-file -s 86d943a9b2e8f3bb69fbe37fd8363962646b1d92
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/environments/environment.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/environments/environment.ts
+> git cat-file -s 7f328b43cb3939bb54a814eaefae6ebaccbe72ea
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git symbolic-ref --short HEAD
+> git show --textconv :init-db.ts
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /var/www/angular-firebase/package-lock.json
+> git cat-file -s 18372157c18342c097275c8e58f520b96e89b228
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/app.component.css
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.html
+> git cat-file -s e48d8c109d668d9b5c5f25e0c2831bbe48d3cc1d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git show --textconv :db-data.ts
+> git ls-files --stage -- /var/www/angular-firebase/db-data.ts
+> git cat-file -s 053f531c987dc453fc7648ebbd1967460e58accd
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.module.ts
+> git cat-file -s 1f2ce36e1a3c9a1e3875de63e92bef80eab4eb80
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/angular-firebase/package.json
+> git cat-file -s 1e0d00e76def752d99def1cce366c704059ff85c
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.html
+> git cat-file -s e48d8c109d668d9b5c5f25e0c2831bbe48d3cc1d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.html
+> git cat-file -s e48d8c109d668d9b5c5f25e0c2831bbe48d3cc1d
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :init-db.ts
+> git ls-files --stage -- /var/www/angular-firebase/init-db.ts
+> git cat-file -s 4d587c67b4b418dc781d47ef7e0b343bdcdd0f69
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.component.ts
+> git cat-file -s 1dfd1534b76392ad81196279d6a82c0a3529b1cb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
