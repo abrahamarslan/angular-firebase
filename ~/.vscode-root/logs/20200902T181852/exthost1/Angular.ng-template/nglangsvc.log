@@ -7982,3 +7982,670 @@ Info 7899 [23:12:55.336] Search path: /var/www/angular-firebase/src/app/about
 Info 7900 [23:12:55.336] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
 Info 7901 [23:12:55.337] Search path: /var/www/angular-firebase/src/app/services
 Info 7902 [23:12:55.337] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7903 [23:25:24.659] Search path: /var/www/angular-firebase/src/app/course
+Info 7904 [23:25:24.660] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7905 [23:25:24.859] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7906 [23:25:26.54] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 683 structureChanged: false Elapsed: 1195ms
+Info 7907 [23:25:26.54] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7908 [23:25:26.112] Search path: /var/www/angular-firebase/src/app/course
+Info 7909 [23:25:26.112] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7910 [23:25:26.113] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 7911 [23:25:26.113] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7912 [23:25:26.114] Search path: /var/www/angular-firebase/src/app/about
+Info 7913 [23:25:26.114] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7914 [23:25:26.114] Search path: /var/www/angular-firebase/src/app/services
+Info 7915 [23:25:26.114] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7916 [23:26:24.737] Search path: /var/www/angular-firebase/src/app/services
+Info 7917 [23:26:24.737] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7918 [23:26:24.908] Search path: /var/www/angular-firebase/src/app/services
+Info 7919 [23:26:24.908] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7920 [23:26:25.108] Search path: /var/www/angular-firebase/src/app/services
+Info 7921 [23:26:25.109] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7922 [23:26:25.508] Search path: /var/www/angular-firebase/src/app/services
+Info 7923 [23:26:25.508] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7924 [23:26:25.875] Search path: /var/www/angular-firebase/src/app/services
+Info 7925 [23:26:25.876] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7926 [23:26:26.919] Search path: /var/www/angular-firebase/src/app/services
+Info 7927 [23:26:26.919] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7928 [23:26:27.94] Search path: /var/www/angular-firebase/src/app/services
+Info 7929 [23:26:27.94] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7930 [23:26:27.295] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7931 [23:26:28.429] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 684 structureChanged: false Elapsed: 1134ms
+Info 7932 [23:26:28.429] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7933 [23:26:28.781] Search path: /var/www/angular-firebase/src/app/course
+Info 7934 [23:26:28.781] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7935 [23:26:28.782] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 7936 [23:26:28.782] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7937 [23:26:28.906] Search path: /var/www/angular-firebase/src/app/about
+Info 7938 [23:26:28.906] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7939 [23:26:28.907] Search path: /var/www/angular-firebase/src/app/services
+Info 7940 [23:26:28.907] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7941 [23:26:28.908] Search path: /var/www/angular-firebase/src/app/services
+Info 7942 [23:26:28.908] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7943 [23:26:28.910] Search path: /var/www/angular-firebase/src/app/services
+Info 7944 [23:26:28.910] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7945 [23:26:28.910] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7946 [23:26:30.597] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 685 structureChanged: false Elapsed: 1687ms
+Info 7947 [23:26:30.597] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7948 [23:26:30.616] Search path: /var/www/angular-firebase/src/app/course
+Info 7949 [23:26:30.617] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7950 [23:26:30.617] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 7951 [23:26:30.617] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7952 [23:26:30.618] Search path: /var/www/angular-firebase/src/app/about
+Info 7953 [23:26:30.618] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7954 [23:26:30.618] Search path: /var/www/angular-firebase/src/app/services
+Info 7955 [23:26:30.618] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7956 [23:26:30.763] Search path: /var/www/angular-firebase/src/app/services
+Info 7957 [23:26:30.763] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7958 [23:26:30.764] Search path: /var/www/angular-firebase/src/app/services
+Info 7959 [23:26:30.764] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7960 [23:26:30.764] Search path: /var/www/angular-firebase/src/app/services
+Info 7961 [23:26:30.764] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7962 [23:26:30.764] Search path: /var/www/angular-firebase/src/app/services
+Info 7963 [23:26:30.764] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7964 [23:26:30.764] Search path: /var/www/angular-firebase/src/app/services
+Info 7965 [23:26:30.764] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7966 [23:26:30.764] Search path: /var/www/angular-firebase/src/app/services
+Info 7967 [23:26:30.764] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7968 [23:26:30.964] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7969 [23:26:31.431] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 686 structureChanged: false Elapsed: 467ms
+Info 7970 [23:26:31.431] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7971 [23:26:31.461] Search path: /var/www/angular-firebase/src/app/course
+Info 7972 [23:26:31.461] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7973 [23:26:31.461] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 7974 [23:26:31.461] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7975 [23:26:31.462] Search path: /var/www/angular-firebase/src/app/about
+Info 7976 [23:26:31.462] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7977 [23:26:31.462] Search path: /var/www/angular-firebase/src/app/services
+Info 7978 [23:26:31.462] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7979 [23:26:32.526] Search path: /var/www/angular-firebase/src/app/services
+Info 7980 [23:26:32.526] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7981 [23:26:32.552] Search path: /var/www/angular-firebase/src/app/services
+Info 7982 [23:26:32.552] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7983 [23:26:32.552] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7984 [23:26:32.690] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 687 structureChanged: false Elapsed: 138ms
+Info 7985 [23:26:32.690] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7986 [23:26:32.692] Search path: /var/www/angular-firebase/src/app/services
+Info 7987 [23:26:32.692] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7988 [23:26:32.893] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 7989 [23:26:33.17] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 688 structureChanged: false Elapsed: 124ms
+Info 7990 [23:26:33.17] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 7991 [23:26:33.25] Search path: /var/www/angular-firebase/src/app/course
+Info 7992 [23:26:33.26] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7993 [23:26:33.26] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 7994 [23:26:33.26] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7995 [23:26:33.27] Search path: /var/www/angular-firebase/src/app/about
+Info 7996 [23:26:33.27] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7997 [23:26:33.27] Search path: /var/www/angular-firebase/src/app/services
+Info 7998 [23:26:33.27] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7999 [23:26:33.837] Search path: /var/www/angular-firebase/src/app/services
+Info 8000 [23:26:33.837] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8001 [23:26:33.889] Search path: /var/www/angular-firebase/src/app/services
+Info 8002 [23:26:33.889] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8003 [23:26:34.91] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8004 [23:26:34.147] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 689 structureChanged: false Elapsed: 56ms
+Info 8005 [23:26:34.147] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8006 [23:26:34.254] Search path: /var/www/angular-firebase/src/app/course
+Info 8007 [23:26:34.254] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8008 [23:26:34.255] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8009 [23:26:34.255] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8010 [23:26:34.255] Search path: /var/www/angular-firebase/src/app/about
+Info 8011 [23:26:34.255] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8012 [23:26:34.256] Search path: /var/www/angular-firebase/src/app/services
+Info 8013 [23:26:34.256] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8014 [23:26:34.343] Search path: /var/www/angular-firebase/src/app/services
+Info 8015 [23:26:34.344] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8016 [23:26:38.151] Search path: /var/www/angular-firebase/src/app/services
+Info 8017 [23:26:38.151] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8018 [23:26:38.352] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8019 [23:26:38.658] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 690 structureChanged: false Elapsed: 306ms
+Info 8020 [23:26:38.658] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8021 [23:26:38.667] Search path: /var/www/angular-firebase/src/app/course
+Info 8022 [23:26:38.667] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8023 [23:26:38.668] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8024 [23:26:38.668] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8025 [23:26:38.668] Search path: /var/www/angular-firebase/src/app/about
+Info 8026 [23:26:38.668] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8027 [23:26:38.668] Search path: /var/www/angular-firebase/src/app/services
+Info 8028 [23:26:38.669] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8029 [23:26:38.726] Search path: /var/www/angular-firebase/src/app/services
+Info 8030 [23:26:38.726] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8031 [23:26:38.726] Search path: /var/www/angular-firebase/src/app/services
+Info 8032 [23:26:38.726] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8033 [23:26:38.726] Search path: /var/www/angular-firebase/src/app/services
+Info 8034 [23:26:38.726] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8035 [23:26:38.726] Search path: /var/www/angular-firebase/src/app/services
+Info 8036 [23:26:38.726] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8037 [23:26:38.727] Search path: /var/www/angular-firebase/src/app/services
+Info 8038 [23:26:38.727] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8039 [23:26:38.727] Search path: /var/www/angular-firebase/src/app/services
+Info 8040 [23:26:38.727] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8041 [23:26:38.727] Search path: /var/www/angular-firebase/src/app/services
+Info 8042 [23:26:38.727] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8043 [23:26:38.727] Search path: /var/www/angular-firebase/src/app/services
+Info 8044 [23:26:38.727] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8045 [23:26:38.727] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8046 [23:26:39.23] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 691 structureChanged: false Elapsed: 296ms
+Info 8047 [23:26:39.23] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8048 [23:26:39.43] Search path: /var/www/angular-firebase/src/app/course
+Info 8049 [23:26:39.44] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8050 [23:26:39.44] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8051 [23:26:39.44] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8052 [23:26:39.44] Search path: /var/www/angular-firebase/src/app/about
+Info 8053 [23:26:39.45] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8054 [23:26:39.45] Search path: /var/www/angular-firebase/src/app/services
+Info 8055 [23:26:39.45] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8056 [23:26:39.46] Search path: /var/www/angular-firebase/src/app/services
+Info 8057 [23:26:39.46] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8058 [23:26:39.46] Search path: /var/www/angular-firebase/src/app/services
+Info 8059 [23:26:39.46] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8060 [23:26:39.46] Search path: /var/www/angular-firebase/src/app/services
+Info 8061 [23:26:39.46] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8062 [23:26:39.46] Search path: /var/www/angular-firebase/src/app/services
+Info 8063 [23:26:39.46] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8064 [23:26:39.247] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8065 [23:26:39.406] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 692 structureChanged: false Elapsed: 159ms
+Info 8066 [23:26:39.406] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8067 [23:26:39.424] Search path: /var/www/angular-firebase/src/app/course
+Info 8068 [23:26:39.425] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8069 [23:26:39.425] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8070 [23:26:39.425] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8071 [23:26:39.438] Search path: /var/www/angular-firebase/src/app/about
+Info 8072 [23:26:39.438] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8073 [23:26:39.438] Search path: /var/www/angular-firebase/src/app/services
+Info 8074 [23:26:39.438] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8075 [23:26:41.499] Search path: /var/www/angular-firebase/src/app/services
+Info 8076 [23:26:41.499] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8077 [23:26:41.700] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8078 [23:26:41.825] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 693 structureChanged: false Elapsed: 125ms
+Info 8079 [23:26:41.825] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8080 [23:26:41.840] Search path: /var/www/angular-firebase/src/app/course
+Info 8081 [23:26:41.840] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8082 [23:26:41.841] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8083 [23:26:41.841] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8084 [23:26:41.843] Search path: /var/www/angular-firebase/src/app/about
+Info 8085 [23:26:41.843] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8086 [23:26:41.844] Search path: /var/www/angular-firebase/src/app/services
+Info 8087 [23:26:41.844] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8088 [23:26:41.905] Search path: /var/www/angular-firebase/src/app/services
+Info 8089 [23:26:41.905] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8090 [23:26:42.105] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8091 [23:26:42.215] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 694 structureChanged: false Elapsed: 110ms
+Info 8092 [23:26:42.215] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8093 [23:26:42.234] Search path: /var/www/angular-firebase/src/app/course
+Info 8094 [23:26:42.240] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8095 [23:26:42.241] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8096 [23:26:42.241] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8097 [23:26:42.243] Search path: /var/www/angular-firebase/src/app/about
+Info 8098 [23:26:42.243] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8099 [23:26:42.244] Search path: /var/www/angular-firebase/src/app/services
+Info 8100 [23:26:42.244] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8101 [23:26:50.696] Search path: /var/www/angular-firebase/src/app/services
+Info 8102 [23:26:50.696] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8103 [23:26:59.106] Search path: /var/www/angular-firebase/src/app/services
+Info 8104 [23:26:59.107] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8105 [23:26:59.307] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8106 [23:26:59.407] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 695 structureChanged: false Elapsed: 100ms
+Info 8107 [23:26:59.407] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8108 [23:26:59.467] Search path: /var/www/angular-firebase/src/app/course
+Info 8109 [23:26:59.468] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8110 [23:26:59.470] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8111 [23:26:59.470] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8112 [23:26:59.474] Search path: /var/www/angular-firebase/src/app/about
+Info 8113 [23:26:59.474] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8114 [23:26:59.475] Search path: /var/www/angular-firebase/src/app/services
+Info 8115 [23:26:59.476] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8116 [23:26:59.479] Search path: /var/www/angular-firebase/src/app/services
+Info 8117 [23:26:59.480] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8118 [23:27:0.49] Search path: /var/www/angular-firebase/src/app/services
+Info 8119 [23:27:0.49] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8120 [23:27:0.52] Search path: /var/www/angular-firebase/src/app/services
+Info 8121 [23:27:0.52] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8122 [23:27:0.52] Search path: /var/www/angular-firebase/src/app/services
+Info 8123 [23:27:0.52] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8124 [23:27:0.52] Search path: /var/www/angular-firebase/src/app/services
+Info 8125 [23:27:0.52] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8126 [23:27:0.53] Search path: /var/www/angular-firebase/src/app/services
+Info 8127 [23:27:0.53] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8128 [23:27:0.253] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8129 [23:27:0.403] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 696 structureChanged: false Elapsed: 150ms
+Info 8130 [23:27:0.403] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8131 [23:27:0.414] Search path: /var/www/angular-firebase/src/app/course
+Info 8132 [23:27:0.414] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8133 [23:27:0.415] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8134 [23:27:0.415] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8135 [23:27:0.427] Search path: /var/www/angular-firebase/src/app/about
+Info 8136 [23:27:0.427] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8137 [23:27:0.428] Search path: /var/www/angular-firebase/src/app/services
+Info 8138 [23:27:0.428] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8139 [23:27:0.516] Search path: /var/www/angular-firebase/src/app/services
+Info 8140 [23:27:0.516] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8141 [23:27:0.516] Search path: /var/www/angular-firebase/src/app/services
+Info 8142 [23:27:0.516] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8143 [23:27:0.516] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8144 [23:27:0.692] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 697 structureChanged: false Elapsed: 176ms
+Info 8145 [23:27:0.692] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8146 [23:27:0.725] Search path: /var/www/angular-firebase/src/app/course
+Info 8147 [23:27:0.725] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8148 [23:27:0.725] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8149 [23:27:0.726] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8150 [23:27:0.726] Search path: /var/www/angular-firebase/src/app/about
+Info 8151 [23:27:0.726] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8152 [23:27:0.726] Search path: /var/www/angular-firebase/src/app/services
+Info 8153 [23:27:0.726] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8154 [23:27:4.206] Search path: /var/www/angular-firebase/src/app/services
+Info 8155 [23:27:4.206] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8156 [23:27:4.407] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8157 [23:27:4.681] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 698 structureChanged: false Elapsed: 274ms
+Info 8158 [23:27:4.681] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8159 [23:27:4.688] Search path: /var/www/angular-firebase/src/app/course
+Info 8160 [23:27:4.689] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8161 [23:27:4.690] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8162 [23:27:4.690] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8163 [23:27:4.690] Search path: /var/www/angular-firebase/src/app/about
+Info 8164 [23:27:4.690] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8165 [23:27:4.690] Search path: /var/www/angular-firebase/src/app/services
+Info 8166 [23:27:4.691] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8167 [23:27:5.621] Search path: /var/www/angular-firebase/src/app/services
+Info 8168 [23:27:5.621] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8169 [23:27:5.624] Search path: /var/www/angular-firebase/src/app/services
+Info 8170 [23:27:5.624] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8171 [23:27:5.625] Search path: /var/www/angular-firebase/src/app/services
+Info 8172 [23:27:5.625] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8173 [23:27:5.826] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8174 [23:27:5.971] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 699 structureChanged: false Elapsed: 145ms
+Info 8175 [23:27:5.971] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8176 [23:27:6.2] Search path: /var/www/angular-firebase/src/app/course
+Info 8177 [23:27:6.2] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8178 [23:27:6.4] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8179 [23:27:6.4] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8180 [23:27:6.4] Search path: /var/www/angular-firebase/src/app/about
+Info 8181 [23:27:6.4] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8182 [23:27:6.5] Search path: /var/www/angular-firebase/src/app/services
+Info 8183 [23:27:6.5] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8184 [23:27:6.7] Search path: /var/www/angular-firebase/src/app/services
+Info 8185 [23:27:6.7] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8186 [23:27:6.57] Search path: /var/www/angular-firebase/src/app/services
+Info 8187 [23:27:6.57] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8188 [23:27:6.258] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8189 [23:27:6.409] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 700 structureChanged: false Elapsed: 151ms
+Info 8190 [23:27:6.409] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8191 [23:27:6.419] Search path: /var/www/angular-firebase/src/app/course
+Info 8192 [23:27:6.420] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8193 [23:27:6.420] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8194 [23:27:6.420] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8195 [23:27:6.421] Search path: /var/www/angular-firebase/src/app/about
+Info 8196 [23:27:6.421] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8197 [23:27:6.421] Search path: /var/www/angular-firebase/src/app/services
+Info 8198 [23:27:6.421] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8199 [23:27:10.216] Search path: /var/www/angular-firebase/src/app/services
+Info 8200 [23:27:10.216] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8201 [23:27:10.417] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8202 [23:27:10.551] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 701 structureChanged: false Elapsed: 134ms
+Info 8203 [23:27:10.551] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8204 [23:27:10.591] Search path: /var/www/angular-firebase/src/app/course
+Info 8205 [23:27:10.591] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8206 [23:27:10.591] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8207 [23:27:10.591] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8208 [23:27:10.592] Search path: /var/www/angular-firebase/src/app/about
+Info 8209 [23:27:10.592] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8210 [23:27:10.592] Search path: /var/www/angular-firebase/src/app/services
+Info 8211 [23:27:10.592] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8212 [23:27:11.90] Search path: /var/www/angular-firebase/src/app/services
+Info 8213 [23:27:11.90] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8214 [23:27:11.291] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8215 [23:27:11.369] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 702 structureChanged: false Elapsed: 78ms
+Info 8216 [23:27:11.369] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8217 [23:27:11.381] Search path: /var/www/angular-firebase/src/app/course
+Info 8218 [23:27:11.381] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8219 [23:27:11.382] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8220 [23:27:11.382] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8221 [23:27:11.382] Search path: /var/www/angular-firebase/src/app/about
+Info 8222 [23:27:11.382] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8223 [23:27:11.383] Search path: /var/www/angular-firebase/src/app/services
+Info 8224 [23:27:11.383] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8225 [23:27:13.144] Search path: /var/www/angular-firebase/src/app/services
+Info 8226 [23:27:13.144] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8227 [23:27:13.145] Search path: /var/www/angular-firebase/src/app/services
+Info 8228 [23:27:13.145] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8229 [23:27:13.345] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8230 [23:27:13.429] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 703 structureChanged: false Elapsed: 84ms
+Info 8231 [23:27:13.429] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8232 [23:27:13.441] Search path: /var/www/angular-firebase/src/app/course
+Info 8233 [23:27:13.441] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8234 [23:27:13.442] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8235 [23:27:13.442] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8236 [23:27:13.443] Search path: /var/www/angular-firebase/src/app/about
+Info 8237 [23:27:13.443] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8238 [23:27:13.445] Search path: /var/www/angular-firebase/src/app/services
+Info 8239 [23:27:13.445] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8240 [23:27:13.667] Search path: /var/www/angular-firebase/src/app/services
+Info 8241 [23:27:13.667] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8242 [23:27:13.867] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8243 [23:27:14.22] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 704 structureChanged: false Elapsed: 155ms
+Info 8244 [23:27:14.22] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8245 [23:27:14.37] Search path: /var/www/angular-firebase/src/app/course
+Info 8246 [23:27:14.37] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8247 [23:27:14.37] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8248 [23:27:14.37] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8249 [23:27:14.38] Search path: /var/www/angular-firebase/src/app/about
+Info 8250 [23:27:14.38] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8251 [23:27:14.38] Search path: /var/www/angular-firebase/src/app/services
+Info 8252 [23:27:14.39] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8253 [23:27:14.512] Search path: /var/www/angular-firebase/src/app/services
+Info 8254 [23:27:14.512] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8255 [23:27:14.712] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8256 [23:27:14.900] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 705 structureChanged: false Elapsed: 188ms
+Info 8257 [23:27:14.900] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8258 [23:27:14.907] Search path: /var/www/angular-firebase/src/app/course
+Info 8259 [23:27:14.907] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8260 [23:27:14.908] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8261 [23:27:14.908] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8262 [23:27:14.908] Search path: /var/www/angular-firebase/src/app/about
+Info 8263 [23:27:14.908] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8264 [23:27:14.908] Search path: /var/www/angular-firebase/src/app/services
+Info 8265 [23:27:14.908] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8266 [23:27:21.697] Search path: /var/www/angular-firebase/src/app/services
+Info 8267 [23:27:21.697] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8268 [23:27:21.703] Search path: /var/www/angular-firebase/src/app/services
+Info 8269 [23:27:21.704] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8270 [23:27:21.704] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8271 [23:27:21.866] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 706 structureChanged: false Elapsed: 162ms
+Info 8272 [23:27:21.866] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8273 [23:27:21.923] Search path: /var/www/angular-firebase/src/app/course
+Info 8274 [23:27:21.923] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8275 [23:27:21.929] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8276 [23:27:21.929] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8277 [23:27:21.931] Search path: /var/www/angular-firebase/src/app/about
+Info 8278 [23:27:21.931] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8279 [23:27:21.932] Search path: /var/www/angular-firebase/src/app/services
+Info 8280 [23:27:21.932] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8281 [23:27:35.123] Search path: /var/www/angular-firebase/src/app/services
+Info 8282 [23:27:35.123] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8283 [23:27:35.623] Search path: /var/www/angular-firebase/src/app/services
+Info 8284 [23:27:35.623] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8285 [23:27:36.56] Search path: /var/www/angular-firebase/src/app/services
+Info 8286 [23:27:36.56] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8287 [23:27:36.662] Search path: /var/www/angular-firebase/src/app/services
+Info 8288 [23:27:36.662] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8289 [23:28:46.468] Search path: /var/www/angular-firebase/src/app/services
+Info 8290 [23:28:46.468] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8291 [23:28:47.971] Search path: /var/www/angular-firebase/src/app/services
+Info 8292 [23:28:47.971] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8293 [23:28:48.371] Search path: /var/www/angular-firebase/src/app/services
+Info 8294 [23:28:48.371] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8295 [23:28:48.984] Search path: /var/www/angular-firebase/src/app/services
+Info 8296 [23:28:48.984] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8297 [23:28:49.560] Search path: /var/www/angular-firebase/src/app/services
+Info 8298 [23:28:49.560] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8299 [23:28:52.102] Search path: /var/www/angular-firebase/src/app/services
+Info 8300 [23:28:52.102] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8301 [23:28:52.304] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8302 [23:28:53.93] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 707 structureChanged: false Elapsed: 789ms
+Info 8303 [23:28:53.93] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8304 [23:28:53.111] Search path: /var/www/angular-firebase/src/app/course
+Info 8305 [23:28:53.111] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8306 [23:28:53.112] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8307 [23:28:53.112] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8308 [23:28:53.112] Search path: /var/www/angular-firebase/src/app/about
+Info 8309 [23:28:53.112] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8310 [23:28:53.112] Search path: /var/www/angular-firebase/src/app/services
+Info 8311 [23:28:53.113] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8312 [23:28:53.807] Search path: /var/www/angular-firebase/src/app/services
+Info 8313 [23:28:53.808] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8314 [23:28:54.9] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8315 [23:28:54.79] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 708 structureChanged: false Elapsed: 70ms
+Info 8316 [23:28:54.79] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8317 [23:28:54.86] Search path: /var/www/angular-firebase/src/app/course
+Info 8318 [23:28:54.86] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8319 [23:28:54.87] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8320 [23:28:54.87] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8321 [23:28:54.87] Search path: /var/www/angular-firebase/src/app/about
+Info 8322 [23:28:54.87] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8323 [23:28:54.88] Search path: /var/www/angular-firebase/src/app/services
+Info 8324 [23:28:54.88] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8325 [23:28:54.486] Search path: /var/www/angular-firebase/src/app/services
+Info 8326 [23:28:54.486] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8327 [23:28:54.614] Search path: /var/www/angular-firebase/src/app/services
+Info 8328 [23:28:54.614] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8329 [23:28:54.614] Search path: /var/www/angular-firebase/src/app/services
+Info 8330 [23:28:54.614] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8331 [23:28:54.615] Search path: /var/www/angular-firebase/src/app/services
+Info 8332 [23:28:54.615] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8333 [23:28:54.725] Search path: /var/www/angular-firebase/src/app/services
+Info 8334 [23:28:54.725] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8335 [23:28:54.896] Search path: /var/www/angular-firebase/src/app/services
+Info 8336 [23:28:54.896] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8337 [23:28:55.94] Search path: /var/www/angular-firebase/src/app/services
+Info 8338 [23:28:55.94] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8339 [23:28:55.294] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8340 [23:28:55.852] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 709 structureChanged: false Elapsed: 558ms
+Info 8341 [23:28:55.852] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8342 [23:28:55.863] Search path: /var/www/angular-firebase/src/app/course
+Info 8343 [23:28:55.863] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8344 [23:28:55.864] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8345 [23:28:55.864] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8346 [23:28:55.864] Search path: /var/www/angular-firebase/src/app/about
+Info 8347 [23:28:55.864] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8348 [23:28:55.865] Search path: /var/www/angular-firebase/src/app/services
+Info 8349 [23:28:55.865] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8350 [23:28:56.69] Search path: /var/www/angular-firebase/src/app/services
+Info 8351 [23:28:56.69] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8352 [23:28:56.211] Search path: /var/www/angular-firebase/src/app/services
+Info 8353 [23:28:56.211] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8354 [23:28:56.212] Search path: /var/www/angular-firebase/src/app/services
+Info 8355 [23:28:56.212] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8356 [23:28:56.413] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8357 [23:28:56.473] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 710 structureChanged: false Elapsed: 60ms
+Info 8358 [23:28:56.474] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8359 [23:28:56.482] Search path: /var/www/angular-firebase/src/app/course
+Info 8360 [23:28:56.482] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8361 [23:28:56.482] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8362 [23:28:56.482] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8363 [23:28:56.483] Search path: /var/www/angular-firebase/src/app/about
+Info 8364 [23:28:56.483] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8365 [23:28:56.483] Search path: /var/www/angular-firebase/src/app/services
+Info 8366 [23:28:56.483] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8367 [23:28:56.762] Search path: /var/www/angular-firebase/src/app/services
+Info 8368 [23:28:56.763] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8369 [23:28:56.963] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8370 [23:28:57.12] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 711 structureChanged: false Elapsed: 49ms
+Info 8371 [23:28:57.12] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8372 [23:28:57.25] Search path: /var/www/angular-firebase/src/app/course
+Info 8373 [23:28:57.25] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8374 [23:28:57.26] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8375 [23:28:57.26] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8376 [23:28:57.27] Search path: /var/www/angular-firebase/src/app/about
+Info 8377 [23:28:57.27] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8378 [23:28:57.27] Search path: /var/www/angular-firebase/src/app/services
+Info 8379 [23:28:57.27] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8380 [23:28:57.856] Search path: /var/www/angular-firebase/src/app/services
+Info 8381 [23:28:57.856] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8382 [23:28:58.674] Search path: /var/www/angular-firebase/src/app/services
+Info 8383 [23:28:58.674] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8384 [23:28:59.320] Search path: /var/www/angular-firebase/src/app/services
+Info 8385 [23:28:59.320] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8386 [23:28:59.775] Search path: /var/www/angular-firebase/src/app/services
+Info 8387 [23:28:59.775] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8388 [23:29:9.426] Search path: /var/www/angular-firebase/src/app/services
+Info 8389 [23:29:9.426] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8390 [23:29:9.627] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8391 [23:29:9.842] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 712 structureChanged: false Elapsed: 215ms
+Info 8392 [23:29:9.843] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8393 [23:29:9.853] Search path: /var/www/angular-firebase/src/app/course
+Info 8394 [23:29:9.853] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8395 [23:29:9.853] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8396 [23:29:9.853] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8397 [23:29:9.854] Search path: /var/www/angular-firebase/src/app/about
+Info 8398 [23:29:9.854] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8399 [23:29:9.854] Search path: /var/www/angular-firebase/src/app/services
+Info 8400 [23:29:9.854] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8401 [23:29:12.265] Search path: /var/www/angular-firebase/src/app/services
+Info 8402 [23:29:12.265] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8403 [23:29:12.466] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8404 [23:29:12.568] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 713 structureChanged: false Elapsed: 102ms
+Info 8405 [23:29:12.568] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8406 [23:29:12.610] Search path: /var/www/angular-firebase/src/app/course
+Info 8407 [23:29:12.610] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8408 [23:29:12.612] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8409 [23:29:12.612] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8410 [23:29:12.612] Search path: /var/www/angular-firebase/src/app/about
+Info 8411 [23:29:12.613] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8412 [23:29:12.613] Search path: /var/www/angular-firebase/src/app/services
+Info 8413 [23:29:12.614] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8414 [23:29:12.615] Search path: /var/www/angular-firebase/src/app/services
+Info 8415 [23:29:12.615] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8416 [23:29:12.816] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8417 [23:29:12.974] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 714 structureChanged: false Elapsed: 158ms
+Info 8418 [23:29:12.974] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8419 [23:29:12.983] Search path: /var/www/angular-firebase/src/app/course
+Info 8420 [23:29:12.983] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8421 [23:29:12.983] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8422 [23:29:12.984] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8423 [23:29:12.984] Search path: /var/www/angular-firebase/src/app/about
+Info 8424 [23:29:12.984] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8425 [23:29:12.984] Search path: /var/www/angular-firebase/src/app/services
+Info 8426 [23:29:12.984] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8427 [23:29:14.165] Search path: /var/www/angular-firebase/src/app/services
+Info 8428 [23:29:14.166] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8429 [23:29:14.366] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8430 [23:29:14.425] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 715 structureChanged: false Elapsed: 59ms
+Info 8431 [23:29:14.425] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8432 [23:29:14.433] Search path: /var/www/angular-firebase/src/app/course
+Info 8433 [23:29:14.433] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8434 [23:29:14.434] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8435 [23:29:14.434] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8436 [23:29:14.434] Search path: /var/www/angular-firebase/src/app/about
+Info 8437 [23:29:14.434] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8438 [23:29:14.434] Search path: /var/www/angular-firebase/src/app/services
+Info 8439 [23:29:14.435] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8440 [23:30:32.988] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 8441 [23:30:33.262] Elapsed:: 274ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 8442 [23:30:33.262] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 8443 [23:30:33.266] Elapsed:: 4ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 8444 [23:30:33.266] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 8445 [23:30:33.272] Elapsed:: 6ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 8446 [23:30:33.516] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8447 [23:30:34.745] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 716 structureChanged: true Elapsed: 1229ms
+Info 8448 [23:30:34.745] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 8449 [23:30:34.746] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 8450 [23:30:35.811] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 46 structureChanged: true Elapsed: 1065ms
+Info 8451 [23:30:35.811] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 8452 [23:30:35.813] Before ensureProjectForOpenFiles:
+Info 8453 [23:30:35.813] After ensureProjectForOpenFiles:
+Info 8454 [23:30:36.172] Search path: /var/www/angular-firebase/src/app/course
+Info 8455 [23:30:36.172] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8456 [23:30:36.173] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8457 [23:30:36.173] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8458 [23:30:36.173] Search path: /var/www/angular-firebase/src/app/about
+Info 8459 [23:30:36.173] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8460 [23:30:36.190] Search path: /var/www/angular-firebase/src/app/services
+Info 8461 [23:30:36.190] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8462 [23:30:39.188] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 8463 [23:30:39.191] Elapsed:: 3ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 8464 [23:30:39.191] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 8465 [23:30:39.196] Elapsed:: 5ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 8466 [23:30:39.196] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 8467 [23:30:39.198] Elapsed:: 2ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 8468 [23:30:39.447] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8469 [23:30:40.214] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 717 structureChanged: true Elapsed: 767ms
+Info 8470 [23:30:40.214] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 8471 [23:30:40.215] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json
+Info 8472 [23:30:40.616] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.spec.json Version: 47 structureChanged: true Elapsed: 401ms
+Info 8473 [23:30:40.616] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 8474 [23:30:41.699] Before ensureProjectForOpenFiles:
+Info 8475 [23:30:41.700] After ensureProjectForOpenFiles:
+Info 8476 [23:30:41.914] Search path: /var/www/angular-firebase/src/app/course
+Info 8477 [23:30:41.914] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8478 [23:30:41.915] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8479 [23:30:41.915] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8480 [23:30:41.916] Search path: /var/www/angular-firebase/src/app/about
+Info 8481 [23:30:41.916] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8482 [23:30:41.916] Search path: /var/www/angular-firebase/src/app/services
+Info 8483 [23:30:41.916] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8484 [23:32:0.341] Search path: /var/www/angular-firebase/src/app/services
+Info 8485 [23:32:0.351] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8486 [23:32:1.736] Search path: /var/www/angular-firebase/src/app/services
+Info 8487 [23:32:1.736] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8488 [23:32:6.234] Search path: /var/www/angular-firebase/src/app/services
+Info 8489 [23:32:6.234] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8490 [23:32:6.435] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8491 [23:32:6.597] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 718 structureChanged: false Elapsed: 162ms
+Info 8492 [23:32:6.597] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8493 [23:32:6.627] Search path: /var/www/angular-firebase/src/app/course
+Info 8494 [23:32:6.627] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8495 [23:32:6.628] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8496 [23:32:6.629] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8497 [23:32:6.630] Search path: /var/www/angular-firebase/src/app/about
+Info 8498 [23:32:6.630] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8499 [23:32:6.631] Search path: /var/www/angular-firebase/src/app/services
+Info 8500 [23:32:6.631] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8501 [23:32:6.692] Search path: /var/www/angular-firebase/src/app/services
+Info 8502 [23:32:6.693] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8503 [23:32:6.893] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8504 [23:32:7.123] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 719 structureChanged: false Elapsed: 230ms
+Info 8505 [23:32:7.123] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8506 [23:32:7.136] Search path: /var/www/angular-firebase/src/app/course
+Info 8507 [23:32:7.136] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8508 [23:32:7.136] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8509 [23:32:7.137] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8510 [23:32:7.139] Search path: /var/www/angular-firebase/src/app/about
+Info 8511 [23:32:7.139] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8512 [23:32:7.139] Search path: /var/www/angular-firebase/src/app/services
+Info 8513 [23:32:7.139] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8514 [23:32:8.185] Search path: /var/www/angular-firebase/src/app/services
+Info 8515 [23:32:8.185] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8516 [23:32:8.322] Search path: /var/www/angular-firebase/src/app/services
+Info 8517 [23:32:8.322] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8518 [23:32:8.513] Search path: /var/www/angular-firebase/src/app/services
+Info 8519 [23:32:8.514] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8520 [23:32:8.663] Search path: /var/www/angular-firebase/src/app/services
+Info 8521 [23:32:8.663] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8522 [23:32:8.663] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8523 [23:32:8.760] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 720 structureChanged: false Elapsed: 97ms
+Info 8524 [23:32:8.760] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8525 [23:32:8.787] Search path: /var/www/angular-firebase/src/app/course
+Info 8526 [23:32:8.787] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8527 [23:32:8.788] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8528 [23:32:8.788] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8529 [23:32:8.789] Search path: /var/www/angular-firebase/src/app/about
+Info 8530 [23:32:8.789] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8531 [23:32:8.789] Search path: /var/www/angular-firebase/src/app/services
+Info 8532 [23:32:8.789] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8533 [23:32:8.790] Search path: /var/www/angular-firebase/src/app/services
+Info 8534 [23:32:8.790] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8535 [23:32:8.990] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8536 [23:32:9.40] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 721 structureChanged: false Elapsed: 50ms
+Info 8537 [23:32:9.40] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8538 [23:32:9.62] Search path: /var/www/angular-firebase/src/app/course
+Info 8539 [23:32:9.62] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8540 [23:32:9.63] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8541 [23:32:9.63] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8542 [23:32:9.63] Search path: /var/www/angular-firebase/src/app/about
+Info 8543 [23:32:9.63] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8544 [23:32:9.63] Search path: /var/www/angular-firebase/src/app/services
+Info 8545 [23:32:9.64] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8546 [23:32:9.298] Search path: /var/www/angular-firebase/src/app/services
+Info 8547 [23:32:9.299] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8548 [23:32:9.499] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8549 [23:32:9.547] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 722 structureChanged: false Elapsed: 48ms
+Info 8550 [23:32:9.547] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8551 [23:32:9.554] Search path: /var/www/angular-firebase/src/app/course
+Info 8552 [23:32:9.554] For info: /var/www/angular-firebase/src/app/course/course.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8553 [23:32:9.554] Search path: /var/www/angular-firebase/src/app/courses-card-list
+Info 8554 [23:32:9.554] For info: /var/www/angular-firebase/src/app/courses-card-list/courses-card-list.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8555 [23:32:9.555] Search path: /var/www/angular-firebase/src/app/about
+Info 8556 [23:32:9.555] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8557 [23:32:9.555] Search path: /var/www/angular-firebase/src/app/services
+Info 8558 [23:32:9.555] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8559 [23:32:32.400] Search path: /var/www/angular-firebase/src/app/services
+Info 8560 [23:32:32.400] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8561 [23:32:58.242] Search path: /var/www/angular-firebase/src/app/services
+Info 8562 [23:32:58.242] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8563 [23:32:58.243] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 8564 [23:32:58.474] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 723 structureChanged: false Elapsed: 231ms
+Info 8565 [23:32:58.474] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 8566 [23:32:58.720] Search path: /var/www/angular-firebase/src/app/services
+Info 8567 [23:32:58.720] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 8568 [23:33:2.634] Search path: /var/www/angular-firebase/src/app/services
+Info 8569 [23:33:2.634] For info: /var/www/angular-firebase/src/app/services/course-service.service.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
