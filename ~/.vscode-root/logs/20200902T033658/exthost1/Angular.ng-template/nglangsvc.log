@@ -1,0 +1,1018 @@
+Info 0    [3:41:5.95] Format host information updated
+Info 1    [3:41:5.95] reload projects.
+Info 2    [3:41:5.95] Before ensureProjectForOpenFiles:
+Info 3    [3:41:5.95] After ensureProjectForOpenFiles:
+Info 4    [3:41:5.95] Host file extension mappings updated
+Info 5    [3:41:11.345] Search path: /var/www/angular-firebase/src/app/about
+Info 6    [3:41:11.346] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7    [3:41:11.347] Opened configuration file /var/www/angular-firebase/tsconfig.json
+Info 8    [3:41:11.355] Config: /var/www/angular-firebase/tsconfig.json : {
+ "rootNames": [],
+ "options": {
+  "configFilePath": "/var/www/angular-firebase/tsconfig.json"
+ },
+ "projectReferences": [
+  {
+   "path": "/var/www/angular-firebase/tsconfig.app.json",
+   "originalPath": "./tsconfig.app.json"
+  },
+  {
+   "path": "/var/www/angular-firebase/tsconfig.spec.json",
+   "originalPath": "./tsconfig.spec.json"
+  }
+ ]
+}
+Info 9    [3:41:11.355] Loading global plugin @angular/language-service
+Info 10   [3:41:11.356] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [3:41:11.356] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [3:41:11.692] Plugin validation succeded
+Info 13   [3:41:11.729] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json
+Info 14   [3:41:11.761] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json Version: 1 structureChanged: true Elapsed: 32ms
+Info 15   [3:41:11.761] Project '/var/www/angular-firebase/tsconfig.json' (Configured)
+Info 16   [3:41:11.761] 	Files (0)
+
+Info 17   [3:41:11.761] -----------------------------------------------
+Info 18   [3:41:11.762] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json
+Info 19   [3:41:11.763] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 20   [3:41:11.765] Disabling language service for /var/www/angular-firebase/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [3:41:11.765] Opened configuration file /var/www/angular-firebase/tsconfig.app.json
+Info 22   [3:41:11.773] Config: /var/www/angular-firebase/tsconfig.app.json : {
+ "rootNames": [
+  "/var/www/angular-firebase/src/main.ts",
+  "/var/www/angular-firebase/src/polyfills.ts"
+ ],
+ "options": {
+  "baseUrl": "/var/www/angular-firebase",
+  "outDir": "/var/www/angular-firebase/out-tsc/app",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "types": [],
+  "configFilePath": "/var/www/angular-firebase/tsconfig.app.json"
+ }
+}
+Info 23   [3:41:11.775] Loading global plugin @angular/language-service
+Info 24   [3:41:11.775] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 25   [3:41:11.775] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 26   [3:41:11.788] Plugin validation succeded
+Info 27   [3:41:11.789] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 28   [3:44:46.966] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 1 structureChanged: true Elapsed: 215177ms
+Info 29   [3:44:47.746] Project '/var/www/angular-firebase/tsconfig.app.json' (Configured)
+Info 30   [3:44:47.746] 	Files (527)
+
+Info 31   [3:44:47.746] -----------------------------------------------
+Info 32   [3:44:47.750] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 33   [3:44:47.760] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 2 structureChanged: false Elapsed: 10ms
+Info 34   [3:44:50.116] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 35   [3:44:50.121] Elapsed:: 5ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 36   [3:44:50.121] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 37   [3:44:50.129] Elapsed:: 8ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 38   [3:44:50.380] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 39   [3:44:51.713] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 3 structureChanged: true Elapsed: 1333ms
+Info 40   [3:44:51.713] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 41   [3:44:52.630] Before ensureProjectForOpenFiles:
+Info 42   [3:44:52.630] After ensureProjectForOpenFiles:
+Info 43   [3:48:54.758] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 44   [3:48:54.977] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 4 structureChanged: false Elapsed: 211ms
+Info 45   [3:48:54.977] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 46   [3:48:59.151] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 47   [3:48:59.250] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 5 structureChanged: false Elapsed: 99ms
+Info 48   [3:48:59.250] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 49   [3:49:1.316] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 50   [3:49:1.576] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 6 structureChanged: false Elapsed: 260ms
+Info 51   [3:49:1.576] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 52   [3:49:2.785] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 53   [3:49:2.953] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 7 structureChanged: false Elapsed: 168ms
+Info 54   [3:49:2.953] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 55   [3:49:3.447] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 56   [3:49:3.595] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 8 structureChanged: false Elapsed: 148ms
+Info 57   [3:49:3.596] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 58   [3:49:4.120] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 59   [3:49:4.263] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 9 structureChanged: false Elapsed: 143ms
+Info 60   [3:49:4.263] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 61   [3:49:5.145] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 62   [3:49:5.260] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 10 structureChanged: false Elapsed: 115ms
+Info 63   [3:49:5.260] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 64   [3:49:6.476] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 65   [3:49:6.574] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 11 structureChanged: false Elapsed: 98ms
+Info 66   [3:49:6.574] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 67   [3:49:14.10] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 68   [3:49:14.158] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 12 structureChanged: false Elapsed: 148ms
+Info 69   [3:49:14.158] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 70   [3:49:14.683] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 71   [3:49:14.850] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 13 structureChanged: false Elapsed: 167ms
+Info 72   [3:49:14.850] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 73   [3:49:15.166] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 74   [3:49:15.246] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 14 structureChanged: false Elapsed: 80ms
+Info 75   [3:49:15.247] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 76   [3:49:16.290] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 77   [3:49:16.399] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 15 structureChanged: false Elapsed: 109ms
+Info 78   [3:49:16.399] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 79   [3:49:16.684] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 80   [3:49:16.783] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 16 structureChanged: false Elapsed: 99ms
+Info 81   [3:49:16.783] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 82   [3:49:17.144] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 83   [3:49:17.223] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 17 structureChanged: false Elapsed: 78ms
+Info 84   [3:49:17.223] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 85   [3:49:23.118] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 86   [3:49:23.401] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 18 structureChanged: false Elapsed: 283ms
+Info 87   [3:49:23.401] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 88   [3:49:24.319] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 89   [3:49:24.486] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 19 structureChanged: false Elapsed: 166ms
+Info 90   [3:49:24.492] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 91   [3:49:24.806] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 92   [3:49:24.886] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 20 structureChanged: false Elapsed: 80ms
+Info 93   [3:49:24.887] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 94   [3:49:25.166] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 95   [3:49:25.240] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 21 structureChanged: false Elapsed: 74ms
+Info 96   [3:49:25.240] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 97   [3:49:25.259] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 98   [3:49:25.382] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 22 structureChanged: false Elapsed: 108ms
+Info 99   [3:49:25.382] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 100  [3:49:25.667] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 101  [3:49:25.782] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 23 structureChanged: false Elapsed: 115ms
+Info 102  [3:49:25.782] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 103  [3:49:25.967] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 104  [3:49:26.89] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 24 structureChanged: false Elapsed: 122ms
+Info 105  [3:49:26.89] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 106  [3:49:26.239] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 107  [3:49:26.313] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 25 structureChanged: false Elapsed: 74ms
+Info 108  [3:49:26.313] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 109  [3:49:26.763] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 110  [3:49:26.923] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 26 structureChanged: false Elapsed: 160ms
+Info 111  [3:49:26.923] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 112  [3:49:27.154] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 113  [3:49:27.237] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 27 structureChanged: false Elapsed: 83ms
+Info 114  [3:49:27.237] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 115  [3:49:27.745] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 116  [3:49:27.806] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 28 structureChanged: false Elapsed: 61ms
+Info 117  [3:49:27.806] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 118  [3:49:30.954] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 119  [3:49:31.16] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 29 structureChanged: false Elapsed: 62ms
+Info 120  [3:49:31.16] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 121  [3:49:34.376] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 122  [3:49:34.467] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 30 structureChanged: false Elapsed: 90ms
+Info 123  [3:49:34.467] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 124  [3:51:21.493] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 125  [3:51:21.747] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 31 structureChanged: false Elapsed: 236ms
+Info 126  [3:51:21.747] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 127  [3:51:29.971] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 128  [3:51:30.72] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 32 structureChanged: false Elapsed: 101ms
+Info 129  [3:51:30.72] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 130  [3:51:34.205] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 131  [3:51:34.316] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 33 structureChanged: false Elapsed: 111ms
+Info 132  [3:51:34.317] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 133  [3:51:34.682] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 134  [3:51:34.834] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 34 structureChanged: false Elapsed: 151ms
+Info 135  [3:51:34.834] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 136  [3:51:40.798] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 137  [3:51:40.962] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 35 structureChanged: false Elapsed: 163ms
+Info 138  [3:51:40.962] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 139  [3:51:45.406] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 140  [3:51:45.483] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 36 structureChanged: false Elapsed: 77ms
+Info 141  [3:51:45.483] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 142  [3:51:46.326] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 143  [3:51:46.412] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 37 structureChanged: false Elapsed: 86ms
+Info 144  [3:51:46.412] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 145  [3:51:48.262] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 146  [3:51:48.306] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 38 structureChanged: false Elapsed: 44ms
+Info 147  [3:51:48.306] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 148  [3:51:49.51] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 149  [3:51:49.195] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 39 structureChanged: false Elapsed: 144ms
+Info 150  [3:51:49.195] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 151  [3:51:49.630] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 152  [3:51:49.672] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 40 structureChanged: false Elapsed: 42ms
+Info 153  [3:51:49.672] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 154  [3:51:49.924] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 155  [3:51:50.124] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 41 structureChanged: false Elapsed: 199ms
+Info 156  [3:51:50.124] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 157  [3:51:50.368] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 158  [3:51:50.445] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 42 structureChanged: false Elapsed: 77ms
+Info 159  [3:51:50.445] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 160  [3:52:52.24] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 161  [3:52:52.174] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 43 structureChanged: false Elapsed: 150ms
+Info 162  [3:52:52.174] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 163  [3:53:1.503] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 164  [3:53:1.626] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 44 structureChanged: false Elapsed: 123ms
+Info 165  [3:53:1.626] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 166  [3:53:2.105] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 167  [3:53:2.276] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 45 structureChanged: false Elapsed: 171ms
+Info 168  [3:53:2.276] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 169  [3:53:5.278] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 170  [3:53:5.502] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 46 structureChanged: false Elapsed: 223ms
+Info 171  [3:53:5.502] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 172  [3:53:6.306] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 173  [3:53:6.451] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 47 structureChanged: false Elapsed: 145ms
+Info 174  [3:53:6.451] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 175  [3:53:7.105] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 176  [3:53:7.220] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 48 structureChanged: false Elapsed: 115ms
+Info 177  [3:53:7.220] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 178  [3:53:9.149] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 179  [3:53:9.227] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 49 structureChanged: false Elapsed: 78ms
+Info 180  [3:53:9.227] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 181  [3:53:13.160] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 182  [3:53:13.229] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 50 structureChanged: false Elapsed: 69ms
+Info 183  [3:53:13.230] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 184  [3:53:14.555] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 185  [3:53:14.665] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 51 structureChanged: false Elapsed: 110ms
+Info 186  [3:53:14.666] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 187  [3:53:15.245] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 188  [3:53:15.368] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 52 structureChanged: false Elapsed: 123ms
+Info 189  [3:53:15.368] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 190  [4:3:57.788] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 191  [4:3:58.97] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 53 structureChanged: false Elapsed: 308ms
+Info 192  [4:3:58.97] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 193  [4:3:58.193] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 194  [4:3:58.388] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 54 structureChanged: false Elapsed: 195ms
+Info 195  [4:3:58.388] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 196  [4:3:58.618] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 197  [4:3:58.829] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 55 structureChanged: false Elapsed: 211ms
+Info 198  [4:3:58.830] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 199  [4:3:59.51] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 200  [4:3:59.288] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 56 structureChanged: false Elapsed: 236ms
+Info 201  [4:3:59.288] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 202  [4:3:59.870] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 203  [4:4:0.238] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 57 structureChanged: false Elapsed: 368ms
+Info 204  [4:4:0.238] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 205  [4:4:0.626] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 206  [4:4:0.789] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 58 structureChanged: false Elapsed: 163ms
+Info 207  [4:4:0.789] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 208  [4:4:1.115] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 209  [4:4:1.492] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 59 structureChanged: false Elapsed: 377ms
+Info 210  [4:4:1.492] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 211  [4:4:2.219] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 212  [4:4:2.480] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 60 structureChanged: false Elapsed: 260ms
+Info 213  [4:4:2.480] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 214  [4:4:2.583] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 215  [4:4:2.880] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 61 structureChanged: false Elapsed: 297ms
+Info 216  [4:4:2.881] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 217  [4:4:3.293] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 218  [4:4:3.612] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 62 structureChanged: false Elapsed: 319ms
+Info 219  [4:4:3.613] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 220  [4:4:3.902] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 221  [4:4:4.202] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 63 structureChanged: false Elapsed: 300ms
+Info 222  [4:4:4.202] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 223  [4:4:4.817] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 224  [4:4:4.866] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 64 structureChanged: false Elapsed: 49ms
+Info 225  [4:4:4.867] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 226  [4:4:6.595] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 227  [4:4:6.917] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 65 structureChanged: false Elapsed: 321ms
+Info 228  [4:4:6.917] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 229  [4:4:7.980] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 230  [4:4:8.65] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 66 structureChanged: false Elapsed: 84ms
+Info 231  [4:4:8.66] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 232  [4:4:12.336] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 233  [4:4:12.482] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 67 structureChanged: false Elapsed: 145ms
+Info 234  [4:4:12.482] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 235  [4:4:13.52] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 236  [4:4:13.285] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 68 structureChanged: false Elapsed: 233ms
+Info 237  [4:4:13.286] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 238  [4:4:13.689] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 239  [4:4:13.958] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 69 structureChanged: false Elapsed: 269ms
+Info 240  [4:4:13.958] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 241  [4:4:15.266] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 242  [4:4:15.408] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 70 structureChanged: false Elapsed: 142ms
+Info 243  [4:4:15.422] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 244  [4:4:15.626] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 245  [4:4:15.910] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 71 structureChanged: false Elapsed: 284ms
+Info 246  [4:4:15.910] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 247  [4:4:16.797] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 248  [4:4:16.880] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 72 structureChanged: false Elapsed: 82ms
+Info 249  [4:4:16.880] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 250  [4:4:29.150] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 251  [4:4:29.452] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 73 structureChanged: false Elapsed: 214ms
+Info 252  [4:4:29.452] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 253  [4:4:33.19] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 254  [4:4:33.254] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 74 structureChanged: false Elapsed: 235ms
+Info 255  [4:4:33.254] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 256  [4:4:33.565] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 257  [4:4:33.689] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 75 structureChanged: false Elapsed: 123ms
+Info 258  [4:4:33.689] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 259  [4:4:33.820] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 260  [4:4:33.988] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 76 structureChanged: false Elapsed: 168ms
+Info 261  [4:4:33.989] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 262  [4:4:34.192] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 263  [4:4:34.254] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 77 structureChanged: false Elapsed: 62ms
+Info 264  [4:4:34.254] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 265  [4:4:34.797] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 266  [4:4:34.875] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 78 structureChanged: false Elapsed: 78ms
+Info 267  [4:4:34.875] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 268  [4:4:35.642] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 269  [4:4:35.730] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 79 structureChanged: false Elapsed: 88ms
+Info 270  [4:4:35.730] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 271  [4:4:36.315] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 272  [4:4:36.432] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 80 structureChanged: false Elapsed: 117ms
+Info 273  [4:4:36.433] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 274  [4:4:36.893] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 275  [4:4:37.60] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 81 structureChanged: false Elapsed: 167ms
+Info 276  [4:4:37.60] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 277  [4:4:37.229] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 278  [4:4:37.343] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 82 structureChanged: false Elapsed: 114ms
+Info 279  [4:4:37.343] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 280  [4:4:37.712] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 281  [4:4:37.965] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 83 structureChanged: false Elapsed: 253ms
+Info 282  [4:4:37.965] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 283  [4:4:37.968] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 284  [4:4:38.41] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 84 structureChanged: false Elapsed: 73ms
+Info 285  [4:4:38.41] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 286  [4:4:38.307] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 287  [4:4:38.423] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 85 structureChanged: false Elapsed: 116ms
+Info 288  [4:4:38.423] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 289  [4:4:39.269] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 290  [4:4:39.643] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 86 structureChanged: false Elapsed: 374ms
+Info 291  [4:4:39.643] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 292  [4:4:39.863] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 293  [4:4:40.134] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 87 structureChanged: false Elapsed: 271ms
+Info 294  [4:4:40.134] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 295  [4:4:49.382] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 296  [4:4:49.547] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 88 structureChanged: false Elapsed: 165ms
+Info 297  [4:4:49.547] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 298  [4:4:53.502] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 299  [4:4:53.691] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 89 structureChanged: false Elapsed: 188ms
+Info 300  [4:4:53.691] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 301  [4:4:57.554] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 302  [4:4:57.810] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 90 structureChanged: false Elapsed: 256ms
+Info 303  [4:4:57.810] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 304  [4:4:58.177] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 305  [4:4:58.513] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 91 structureChanged: false Elapsed: 336ms
+Info 306  [4:4:58.526] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 307  [4:4:58.535] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 308  [4:4:58.680] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 92 structureChanged: false Elapsed: 145ms
+Info 309  [4:4:58.681] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 310  [4:4:58.933] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 311  [4:4:59.123] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 93 structureChanged: false Elapsed: 190ms
+Info 312  [4:4:59.124] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 313  [4:4:59.269] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 314  [4:4:59.538] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 94 structureChanged: false Elapsed: 268ms
+Info 315  [4:4:59.539] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 316  [4:5:2.811] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 317  [4:5:2.995] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 95 structureChanged: false Elapsed: 182ms
+Info 318  [4:5:2.998] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 319  [4:5:3.379] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 320  [4:5:3.532] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 96 structureChanged: false Elapsed: 153ms
+Info 321  [4:5:3.532] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 322  [4:5:3.751] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 323  [4:5:4.23] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 97 structureChanged: false Elapsed: 272ms
+Info 324  [4:5:4.23] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 325  [4:5:4.541] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 326  [4:5:4.774] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 98 structureChanged: false Elapsed: 233ms
+Info 327  [4:5:4.775] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 328  [4:5:6.657] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 329  [4:5:6.756] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 99 structureChanged: false Elapsed: 99ms
+Info 330  [4:5:6.756] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 331  [4:5:10.625] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 332  [4:5:10.788] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 100 structureChanged: false Elapsed: 163ms
+Info 333  [4:5:10.788] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 334  [4:5:11.545] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 335  [4:5:11.702] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 101 structureChanged: false Elapsed: 157ms
+Info 336  [4:5:11.702] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 337  [4:5:13.228] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 338  [4:5:13.303] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 102 structureChanged: false Elapsed: 74ms
+Info 339  [4:5:13.303] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 340  [4:5:13.306] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 341  [4:5:13.661] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 103 structureChanged: false Elapsed: 355ms
+Info 342  [4:5:13.661] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 343  [4:5:13.864] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 344  [4:5:14.121] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 104 structureChanged: false Elapsed: 256ms
+Info 345  [4:5:14.121] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 346  [4:5:14.364] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 347  [4:5:14.544] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 105 structureChanged: false Elapsed: 180ms
+Info 348  [4:5:14.544] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 349  [4:5:14.905] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 350  [4:5:15.44] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 106 structureChanged: false Elapsed: 138ms
+Info 351  [4:5:15.44] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 352  [4:5:15.216] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 353  [4:5:15.367] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 107 structureChanged: false Elapsed: 151ms
+Info 354  [4:5:15.367] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 355  [4:5:15.828] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 356  [4:5:15.948] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 108 structureChanged: false Elapsed: 120ms
+Info 357  [4:5:15.948] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 358  [4:5:16.429] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 359  [4:5:16.645] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 109 structureChanged: false Elapsed: 216ms
+Info 360  [4:5:16.645] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 361  [4:5:18.300] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 362  [4:5:18.451] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 110 structureChanged: false Elapsed: 151ms
+Info 363  [4:5:18.451] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 364  [4:5:24.283] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 365  [4:5:24.508] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 111 structureChanged: false Elapsed: 225ms
+Info 366  [4:5:24.508] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 367  [4:5:25.770] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 368  [4:5:25.879] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 112 structureChanged: false Elapsed: 109ms
+Info 369  [4:5:25.879] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 370  [4:5:26.259] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 371  [4:5:26.358] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 113 structureChanged: false Elapsed: 99ms
+Info 372  [4:5:26.358] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 373  [4:5:26.654] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 374  [4:5:26.786] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 114 structureChanged: false Elapsed: 132ms
+Info 375  [4:5:26.786] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 376  [4:5:28.302] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 377  [4:5:28.522] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 115 structureChanged: false Elapsed: 220ms
+Info 378  [4:5:28.522] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 379  [4:5:30.455] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 380  [4:5:30.543] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 116 structureChanged: false Elapsed: 88ms
+Info 381  [4:5:30.543] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 382  [4:5:32.133] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 383  [4:5:32.212] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 117 structureChanged: false Elapsed: 79ms
+Info 384  [4:5:32.212] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 385  [4:5:35.947] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 386  [4:5:36.96] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 118 structureChanged: false Elapsed: 149ms
+Info 387  [4:5:36.96] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 388  [4:5:38.869] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 389  [4:5:39.29] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 119 structureChanged: false Elapsed: 160ms
+Info 390  [4:5:39.29] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 391  [4:5:42.523] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 392  [4:5:42.616] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 120 structureChanged: false Elapsed: 93ms
+Info 393  [4:5:42.616] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 394  [4:5:44.692] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 395  [4:5:44.894] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 121 structureChanged: false Elapsed: 202ms
+Info 396  [4:5:44.894] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 397  [4:5:45.114] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 398  [4:5:45.227] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 122 structureChanged: false Elapsed: 112ms
+Info 399  [4:5:45.227] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 400  [4:5:45.442] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 401  [4:5:45.701] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 123 structureChanged: false Elapsed: 259ms
+Info 402  [4:5:45.701] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 403  [4:5:46.23] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 404  [4:5:46.259] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 124 structureChanged: false Elapsed: 236ms
+Info 405  [4:5:46.259] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 406  [4:5:47.22] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 407  [4:5:47.401] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 125 structureChanged: false Elapsed: 378ms
+Info 408  [4:5:47.401] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 409  [4:5:47.610] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 410  [4:5:47.876] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 126 structureChanged: false Elapsed: 266ms
+Info 411  [4:5:47.877] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 412  [4:5:48.202] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 413  [4:5:48.473] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 127 structureChanged: false Elapsed: 271ms
+Info 414  [4:5:48.473] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 415  [4:5:48.709] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 416  [4:5:49.18] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 128 structureChanged: false Elapsed: 309ms
+Info 417  [4:5:49.18] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 418  [4:5:49.223] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 419  [4:5:49.418] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 129 structureChanged: false Elapsed: 195ms
+Info 420  [4:5:49.418] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 421  [4:5:51.304] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 422  [4:5:51.521] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 130 structureChanged: false Elapsed: 217ms
+Info 423  [4:5:51.521] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 424  [4:5:51.901] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 425  [4:5:52.255] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 131 structureChanged: false Elapsed: 353ms
+Info 426  [4:5:52.255] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 427  [4:5:53.77] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 428  [4:5:53.272] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 132 structureChanged: false Elapsed: 194ms
+Info 429  [4:5:53.272] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 430  [4:5:54.397] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 431  [4:5:54.503] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 133 structureChanged: false Elapsed: 106ms
+Info 432  [4:5:54.503] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 433  [4:5:59.850] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 434  [4:6:0.8] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 134 structureChanged: false Elapsed: 156ms
+Info 435  [4:6:0.8] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 436  [4:6:2.709] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 437  [4:6:2.884] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 135 structureChanged: false Elapsed: 175ms
+Info 438  [4:6:2.885] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 439  [4:6:3.203] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 440  [4:6:3.316] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 136 structureChanged: false Elapsed: 112ms
+Info 441  [4:6:3.316] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 442  [4:6:3.690] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 443  [4:6:3.765] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 137 structureChanged: false Elapsed: 75ms
+Info 444  [4:6:3.765] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 445  [4:6:4.346] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 446  [4:6:4.446] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 138 structureChanged: false Elapsed: 100ms
+Info 447  [4:6:4.446] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 448  [4:6:4.732] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 449  [4:6:4.802] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 139 structureChanged: false Elapsed: 70ms
+Info 450  [4:6:4.802] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 451  [4:6:5.129] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 452  [4:6:5.385] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 140 structureChanged: false Elapsed: 256ms
+Info 453  [4:6:5.386] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 454  [4:6:6.173] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 455  [4:6:6.412] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 141 structureChanged: false Elapsed: 239ms
+Info 456  [4:6:6.412] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 457  [4:6:9.18] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 458  [4:6:9.239] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 142 structureChanged: false Elapsed: 221ms
+Info 459  [4:6:9.239] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 460  [4:6:9.467] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 461  [4:6:9.868] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 143 structureChanged: false Elapsed: 400ms
+Info 462  [4:6:9.868] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 463  [4:6:24.823] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 464  [4:6:25.844] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 144 structureChanged: false Elapsed: 920ms
+Info 465  [4:6:25.844] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 466  [4:6:40.97] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 467  [4:6:40.179] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 145 structureChanged: false Elapsed: 81ms
+Info 468  [4:6:40.179] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 469  [4:6:43.235] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 470  [4:6:43.319] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 146 structureChanged: false Elapsed: 84ms
+Info 471  [4:6:43.319] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 472  [4:6:43.521] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 473  [4:6:43.562] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 147 structureChanged: false Elapsed: 41ms
+Info 474  [4:6:43.562] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 475  [4:6:51.526] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 476  [4:6:51.659] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 148 structureChanged: false Elapsed: 133ms
+Info 477  [4:6:51.659] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 478  [4:6:54.536] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 479  [4:6:54.865] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 149 structureChanged: false Elapsed: 327ms
+Info 480  [4:6:54.865] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 481  [4:6:55.840] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 482  [4:6:56.16] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 150 structureChanged: false Elapsed: 176ms
+Info 483  [4:6:56.16] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 484  [4:6:56.254] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 485  [4:6:56.465] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 151 structureChanged: false Elapsed: 211ms
+Info 486  [4:6:56.465] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 487  [4:6:57.608] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 488  [4:6:57.938] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 152 structureChanged: false Elapsed: 328ms
+Info 489  [4:6:57.938] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 490  [4:6:58.142] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 491  [4:6:58.184] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 153 structureChanged: false Elapsed: 42ms
+Info 492  [4:6:58.184] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 493  [4:6:58.927] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 494  [4:6:59.463] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 154 structureChanged: false Elapsed: 536ms
+Info 495  [4:6:59.463] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 496  [4:6:59.681] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 497  [4:7:0.63] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 155 structureChanged: false Elapsed: 382ms
+Info 498  [4:7:0.63] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 499  [4:7:3.275] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 500  [4:7:3.582] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 156 structureChanged: false Elapsed: 307ms
+Info 501  [4:7:3.582] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 502  [4:7:3.964] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 503  [4:7:4.301] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 157 structureChanged: false Elapsed: 337ms
+Info 504  [4:7:4.301] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 505  [4:7:4.605] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 506  [4:7:4.843] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 158 structureChanged: false Elapsed: 238ms
+Info 507  [4:7:4.843] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 508  [4:7:11.773] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 509  [4:7:11.924] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 159 structureChanged: false Elapsed: 151ms
+Info 510  [4:7:11.924] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 511  [4:7:12.882] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 512  [4:7:13.63] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 160 structureChanged: false Elapsed: 181ms
+Info 513  [4:7:13.63] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 514  [4:7:13.575] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 515  [4:7:13.971] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 161 structureChanged: false Elapsed: 396ms
+Info 516  [4:7:13.972] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 517  [4:7:14.536] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 518  [4:7:14.899] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 162 structureChanged: false Elapsed: 363ms
+Info 519  [4:7:14.899] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 520  [4:7:15.467] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 521  [4:7:15.789] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 163 structureChanged: false Elapsed: 322ms
+Info 522  [4:7:15.789] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 523  [4:7:17.8] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 524  [4:7:17.246] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 164 structureChanged: false Elapsed: 238ms
+Info 525  [4:7:17.246] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 526  [4:7:18.0] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 527  [4:7:18.264] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 165 structureChanged: false Elapsed: 264ms
+Info 528  [4:7:18.264] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 529  [4:7:21.384] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 530  [4:7:21.651] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 166 structureChanged: false Elapsed: 267ms
+Info 531  [4:7:21.651] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 532  [4:7:22.243] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 533  [4:7:22.479] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 167 structureChanged: false Elapsed: 236ms
+Info 534  [4:7:22.479] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 535  [4:7:22.689] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 536  [4:7:23.120] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 168 structureChanged: false Elapsed: 431ms
+Info 537  [4:7:23.120] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 538  [4:7:23.586] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 539  [4:7:23.862] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 169 structureChanged: false Elapsed: 276ms
+Info 540  [4:7:23.862] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 541  [4:7:29.557] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 542  [4:7:29.666] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 170 structureChanged: false Elapsed: 109ms
+Info 543  [4:7:29.666] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 544  [4:7:31.328] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 545  [4:7:31.419] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 171 structureChanged: false Elapsed: 91ms
+Info 546  [4:7:31.419] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 547  [4:7:37.992] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 548  [4:7:38.158] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 172 structureChanged: false Elapsed: 166ms
+Info 549  [4:7:38.158] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 550  [4:7:38.475] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 551  [4:7:38.590] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 173 structureChanged: false Elapsed: 115ms
+Info 552  [4:7:38.590] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 553  [4:7:38.979] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 554  [4:7:39.270] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 174 structureChanged: false Elapsed: 291ms
+Info 555  [4:7:39.270] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 556  [4:7:39.472] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 557  [4:7:39.848] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 175 structureChanged: false Elapsed: 375ms
+Info 558  [4:7:39.848] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 559  [4:7:40.75] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 560  [4:7:40.270] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 176 structureChanged: false Elapsed: 195ms
+Info 561  [4:7:40.270] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 562  [4:7:43.274] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 563  [4:7:43.678] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 177 structureChanged: false Elapsed: 404ms
+Info 564  [4:7:43.678] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 565  [4:7:43.881] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 566  [4:7:43.987] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 178 structureChanged: false Elapsed: 106ms
+Info 567  [4:7:43.987] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 568  [4:7:44.405] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 569  [4:7:44.558] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 179 structureChanged: false Elapsed: 153ms
+Info 570  [4:7:44.558] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 571  [4:7:44.738] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 572  [4:7:44.978] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 180 structureChanged: false Elapsed: 240ms
+Info 573  [4:7:44.978] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 574  [4:7:46.269] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 575  [4:7:46.712] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 181 structureChanged: false Elapsed: 443ms
+Info 576  [4:7:46.712] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 577  [4:7:47.59] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 578  [4:7:47.145] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 182 structureChanged: false Elapsed: 86ms
+Info 579  [4:7:47.145] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 580  [4:7:48.349] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 581  [4:7:48.586] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 183 structureChanged: false Elapsed: 237ms
+Info 582  [4:7:48.586] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 583  [4:7:49.147] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 584  [4:7:49.223] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 184 structureChanged: false Elapsed: 76ms
+Info 585  [4:7:49.223] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 586  [4:7:51.913] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 587  [4:7:52.151] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 185 structureChanged: false Elapsed: 237ms
+Info 588  [4:7:52.152] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 589  [4:7:52.730] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 590  [4:7:52.919] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 186 structureChanged: false Elapsed: 188ms
+Info 591  [4:7:52.919] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 592  [4:7:53.408] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 593  [4:7:53.508] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 187 structureChanged: false Elapsed: 100ms
+Info 594  [4:7:53.509] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 595  [4:7:54.233] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 596  [4:7:54.388] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 188 structureChanged: false Elapsed: 154ms
+Info 597  [4:7:54.388] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 598  [4:7:54.644] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 599  [4:7:54.848] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 189 structureChanged: false Elapsed: 203ms
+Info 600  [4:7:54.849] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 601  [4:7:55.54] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 602  [4:7:55.127] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 190 structureChanged: false Elapsed: 73ms
+Info 603  [4:7:55.128] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 604  [4:7:58.520] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 605  [4:7:58.924] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 191 structureChanged: false Elapsed: 403ms
+Info 606  [4:7:58.924] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 607  [4:7:59.128] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 608  [4:7:59.323] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 192 structureChanged: false Elapsed: 195ms
+Info 609  [4:7:59.323] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 610  [4:7:59.534] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 611  [4:7:59.868] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 193 structureChanged: false Elapsed: 334ms
+Info 612  [4:7:59.868] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 613  [4:8:0.70] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 614  [4:8:0.195] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 194 structureChanged: false Elapsed: 125ms
+Info 615  [4:8:0.195] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 616  [4:8:3.510] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 617  [4:8:3.731] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 195 structureChanged: false Elapsed: 221ms
+Info 618  [4:8:3.731] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 619  [4:8:3.991] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 620  [4:8:4.94] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 196 structureChanged: false Elapsed: 103ms
+Info 621  [4:8:4.94] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 622  [4:8:5.220] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 623  [4:8:5.490] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 197 structureChanged: false Elapsed: 270ms
+Info 624  [4:8:5.490] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 625  [4:8:5.890] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 626  [4:8:5.990] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 198 structureChanged: false Elapsed: 100ms
+Info 627  [4:8:5.990] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 628  [4:8:7.647] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 629  [4:8:8.74] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 199 structureChanged: false Elapsed: 426ms
+Info 630  [4:8:8.74] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 631  [4:8:8.418] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 632  [4:8:8.619] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 200 structureChanged: false Elapsed: 201ms
+Info 633  [4:8:8.619] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 634  [4:8:8.932] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 635  [4:8:9.156] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 201 structureChanged: false Elapsed: 224ms
+Info 636  [4:8:9.156] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 637  [4:8:16.743] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 638  [4:8:16.797] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 202 structureChanged: false Elapsed: 54ms
+Info 639  [4:8:16.797] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 640  [4:8:42.284] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 641  [4:8:42.738] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 203 structureChanged: false Elapsed: 454ms
+Info 642  [4:8:42.738] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 643  [4:8:42.756] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 644  [4:8:43.211] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 204 structureChanged: false Elapsed: 455ms
+Info 645  [4:8:43.211] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 646  [4:8:43.413] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 647  [4:8:43.557] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 205 structureChanged: false Elapsed: 144ms
+Info 648  [4:8:43.558] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 649  [4:8:45.54] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 650  [4:8:45.443] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 206 structureChanged: false Elapsed: 389ms
+Info 651  [4:8:45.443] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 652  [4:8:46.958] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 653  [4:8:47.364] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 207 structureChanged: false Elapsed: 406ms
+Info 654  [4:8:47.364] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 655  [4:8:47.608] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 656  [4:8:47.901] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 208 structureChanged: false Elapsed: 292ms
+Info 657  [4:8:47.902] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 658  [4:8:48.294] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 659  [4:8:48.703] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 209 structureChanged: false Elapsed: 409ms
+Info 660  [4:8:48.703] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 661  [4:8:48.906] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 662  [4:8:49.118] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 210 structureChanged: false Elapsed: 212ms
+Info 663  [4:8:49.119] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 664  [4:8:53.918] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 665  [4:8:54.94] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 211 structureChanged: false Elapsed: 176ms
+Info 666  [4:8:54.94] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 667  [4:8:54.770] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 668  [4:8:54.903] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 212 structureChanged: false Elapsed: 132ms
+Info 669  [4:8:54.903] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 670  [4:8:55.192] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 671  [4:8:55.562] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 213 structureChanged: false Elapsed: 370ms
+Info 672  [4:8:55.562] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 673  [4:8:55.978] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 674  [4:8:56.235] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 214 structureChanged: false Elapsed: 257ms
+Info 675  [4:8:56.235] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 676  [4:8:56.798] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 677  [4:8:57.48] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 215 structureChanged: false Elapsed: 250ms
+Info 678  [4:8:57.48] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 679  [4:8:57.336] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 680  [4:8:57.595] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 216 structureChanged: false Elapsed: 259ms
+Info 681  [4:8:57.595] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 682  [4:8:58.153] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 683  [4:8:58.419] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 217 structureChanged: false Elapsed: 265ms
+Info 684  [4:8:58.436] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 685  [4:8:58.620] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 686  [4:8:58.807] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 218 structureChanged: false Elapsed: 186ms
+Info 687  [4:8:58.807] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 688  [4:8:59.222] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 689  [4:8:59.721] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 219 structureChanged: false Elapsed: 498ms
+Info 690  [4:8:59.722] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 691  [4:8:59.958] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 692  [4:9:0.144] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 220 structureChanged: false Elapsed: 185ms
+Info 693  [4:9:0.144] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 694  [4:9:1.673] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 695  [4:9:2.461] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 221 structureChanged: true Elapsed: 788ms
+Info 696  [4:9:2.461] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 697  [4:9:2.669] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 698  [4:9:2.856] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 222 structureChanged: true Elapsed: 187ms
+Info 699  [4:9:2.856] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 700  [4:9:3.543] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 701  [4:9:3.941] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 223 structureChanged: true Elapsed: 398ms
+Info 702  [4:9:3.941] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 703  [4:9:4.497] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 704  [4:9:4.868] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 224 structureChanged: true Elapsed: 371ms
+Info 705  [4:9:4.868] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 706  [4:9:5.945] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 707  [4:9:6.473] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 225 structureChanged: true Elapsed: 528ms
+Info 708  [4:9:6.473] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 709  [4:9:6.962] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 710  [4:9:7.226] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 226 structureChanged: true Elapsed: 264ms
+Info 711  [4:9:7.226] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 712  [4:9:7.436] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 713  [4:9:7.782] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 227 structureChanged: true Elapsed: 346ms
+Info 714  [4:9:7.782] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 715  [4:9:8.139] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 716  [4:9:8.503] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 228 structureChanged: true Elapsed: 363ms
+Info 717  [4:9:8.503] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 718  [4:9:8.808] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 719  [4:9:9.224] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 229 structureChanged: true Elapsed: 416ms
+Info 720  [4:9:9.224] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 721  [4:9:9.489] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 722  [4:9:9.783] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 230 structureChanged: true Elapsed: 294ms
+Info 723  [4:9:9.783] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 724  [4:9:11.70] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 725  [4:9:11.535] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 231 structureChanged: true Elapsed: 465ms
+Info 726  [4:9:11.536] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 727  [4:9:13.66] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 728  [4:9:31.32] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 232 structureChanged: true Elapsed: 17764ms
+Info 729  [4:9:31.332] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 730  [4:9:31.535] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 731  [4:9:32.508] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 233 structureChanged: true Elapsed: 973ms
+Info 732  [4:9:32.508] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 733  [4:10:1.625] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 734  [4:10:2.118] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 234 structureChanged: true Elapsed: 493ms
+Info 735  [4:10:2.118] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 736  [4:10:10.626] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 737  [4:10:10.984] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 235 structureChanged: true Elapsed: 358ms
+Info 738  [4:10:10.984] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 739  [4:10:11.799] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 740  [4:10:12.26] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 236 structureChanged: true Elapsed: 227ms
+Info 741  [4:10:12.26] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 742  [4:10:12.30] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 743  [4:10:12.165] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 237 structureChanged: true Elapsed: 135ms
+Info 744  [4:10:12.166] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 745  [4:10:12.167] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 746  [4:10:12.260] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 238 structureChanged: true Elapsed: 93ms
+Info 747  [4:10:12.260] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 748  [4:10:12.462] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 749  [4:10:12.725] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 239 structureChanged: true Elapsed: 263ms
+Info 750  [4:10:12.725] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 751  [4:10:16.804] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 752  [4:10:17.169] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 240 structureChanged: true Elapsed: 365ms
+Info 753  [4:10:17.169] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 754  [4:10:17.575] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 755  [4:10:17.911] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 241 structureChanged: true Elapsed: 336ms
+Info 756  [4:10:17.912] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 757  [4:10:18.682] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 758  [4:10:18.955] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 242 structureChanged: true Elapsed: 273ms
+Info 759  [4:10:18.956] Project '/var/www/angular-firebase/tsconfig.app.json' (Configured)
+Info 760  [4:10:18.956] 	Files (528)
+
+Info 761  [4:10:18.956] -----------------------------------------------
+Info 762  [4:10:22.728] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 763  [4:10:22.852] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 243 structureChanged: false Elapsed: 124ms
+Info 764  [4:10:22.852] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 765  [4:10:44.748] Search path: /var/www/angular-firebase/src/model
+Info 766  [4:10:44.762] For info: /var/www/angular-firebase/src/model/course.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 767  [4:10:56.415] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 768  [4:10:56.699] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 244 structureChanged: false Elapsed: 284ms
+Info 769  [4:10:56.699] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 770  [4:11:21.801] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 771  [4:11:21.916] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 245 structureChanged: false Elapsed: 115ms
+Info 772  [4:11:21.916] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 773  [4:11:22.140] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 774  [4:11:22.238] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 246 structureChanged: false Elapsed: 98ms
+Info 775  [4:11:22.239] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 776  [4:11:22.441] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 777  [4:11:22.494] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 247 structureChanged: false Elapsed: 53ms
+Info 778  [4:11:22.494] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 779  [4:11:22.851] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 780  [4:11:22.907] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 248 structureChanged: false Elapsed: 56ms
+Info 781  [4:11:22.907] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 782  [4:11:23.611] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 783  [4:11:23.705] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 249 structureChanged: false Elapsed: 94ms
+Info 784  [4:11:23.706] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 785  [4:11:24.76] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 786  [4:11:24.162] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 250 structureChanged: false Elapsed: 86ms
+Info 787  [4:11:24.162] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 788  [4:11:25.567] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 789  [4:11:25.650] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 251 structureChanged: false Elapsed: 83ms
+Info 790  [4:11:25.650] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 791  [4:11:25.853] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 792  [4:11:25.939] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 252 structureChanged: false Elapsed: 86ms
+Info 793  [4:11:25.939] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 794  [4:11:26.175] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 795  [4:11:26.289] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 253 structureChanged: false Elapsed: 114ms
+Info 796  [4:11:26.289] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 797  [4:11:27.98] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 798  [4:11:27.229] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 254 structureChanged: false Elapsed: 131ms
+Info 799  [4:11:27.229] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 800  [4:11:27.561] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 801  [4:11:27.624] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 255 structureChanged: false Elapsed: 63ms
+Info 802  [4:11:27.624] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 803  [4:11:27.877] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 804  [4:11:27.932] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 256 structureChanged: false Elapsed: 55ms
+Info 805  [4:11:27.932] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 806  [4:11:28.275] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 807  [4:11:28.326] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 257 structureChanged: false Elapsed: 51ms
+Info 808  [4:11:28.326] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 809  [4:11:29.926] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 810  [4:11:29.996] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 258 structureChanged: false Elapsed: 70ms
+Info 811  [4:11:29.996] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 812  [4:11:31.522] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 813  [4:11:31.672] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 259 structureChanged: false Elapsed: 150ms
+Info 814  [4:11:31.672] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 815  [4:11:32.882] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 816  [4:11:33.20] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 260 structureChanged: false Elapsed: 138ms
+Info 817  [4:11:33.20] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 818  [4:11:33.794] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 819  [4:11:33.909] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 261 structureChanged: false Elapsed: 115ms
+Info 820  [4:11:33.909] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 821  [4:11:34.495] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 822  [4:11:34.540] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 262 structureChanged: false Elapsed: 45ms
+Info 823  [4:11:34.540] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 824  [4:11:37.715] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 825  [4:11:37.836] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 263 structureChanged: false Elapsed: 121ms
+Info 826  [4:11:37.836] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 827  [4:11:58.868] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 828  [4:11:58.938] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 264 structureChanged: false Elapsed: 70ms
+Info 829  [4:11:58.938] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 830  [4:12:0.285] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 831  [4:12:0.340] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 265 structureChanged: false Elapsed: 55ms
+Info 832  [4:12:0.340] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 833  [4:12:1.733] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 834  [4:12:1.803] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 266 structureChanged: false Elapsed: 70ms
+Info 835  [4:12:1.803] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 836  [4:12:14.641] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 837  [4:12:14.728] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 267 structureChanged: false Elapsed: 87ms
+Info 838  [4:12:14.728] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 839  [4:12:15.301] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 840  [4:12:15.362] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 268 structureChanged: false Elapsed: 61ms
+Info 841  [4:12:15.362] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 842  [4:12:15.493] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 843  [4:12:15.563] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 269 structureChanged: false Elapsed: 70ms
+Info 844  [4:12:15.563] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 845  [4:12:16.3] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 846  [4:12:16.72] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 270 structureChanged: false Elapsed: 69ms
+Info 847  [4:12:16.72] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 848  [4:12:16.763] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 849  [4:12:16.842] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 271 structureChanged: false Elapsed: 79ms
+Info 850  [4:12:16.843] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 851  [4:12:17.193] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 852  [4:12:17.244] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 272 structureChanged: false Elapsed: 50ms
+Info 853  [4:12:17.244] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 854  [4:12:17.553] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 855  [4:12:17.608] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 273 structureChanged: false Elapsed: 55ms
+Info 856  [4:12:17.608] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 857  [4:12:17.609] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 858  [4:12:17.755] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 274 structureChanged: false Elapsed: 146ms
+Info 859  [4:12:17.755] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 860  [4:12:17.957] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 861  [4:12:18.188] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 275 structureChanged: false Elapsed: 231ms
+Info 862  [4:12:18.188] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 863  [4:12:18.571] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 864  [4:12:18.625] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 276 structureChanged: false Elapsed: 54ms
+Info 865  [4:12:18.625] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 866  [4:12:18.627] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 867  [4:12:18.724] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 277 structureChanged: false Elapsed: 97ms
+Info 868  [4:12:18.724] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 869  [4:12:19.58] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 870  [4:12:19.234] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 278 structureChanged: false Elapsed: 176ms
+Info 871  [4:12:19.235] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 872  [4:12:19.875] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 873  [4:12:19.967] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 279 structureChanged: false Elapsed: 91ms
+Info 874  [4:12:19.967] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 875  [4:12:20.188] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 876  [4:12:20.253] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 280 structureChanged: false Elapsed: 65ms
+Info 877  [4:12:20.253] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 878  [4:12:23.329] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 879  [4:12:23.387] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 281 structureChanged: false Elapsed: 58ms
+Info 880  [4:12:23.387] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 881  [4:12:29.165] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 882  [4:12:29.207] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 282 structureChanged: false Elapsed: 42ms
+Info 883  [4:12:29.207] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 884  [4:13:14.820] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 885  [4:13:14.905] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 283 structureChanged: false Elapsed: 85ms
+Info 886  [4:13:14.905] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 887  [4:13:17.665] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 888  [4:13:17.783] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 284 structureChanged: false Elapsed: 118ms
+Info 889  [4:13:17.783] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 890  [4:13:18.371] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 891  [4:13:18.528] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 285 structureChanged: false Elapsed: 157ms
+Info 892  [4:13:18.528] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 893  [4:13:18.993] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 894  [4:13:19.67] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 286 structureChanged: false Elapsed: 74ms
+Info 895  [4:13:19.67] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 896  [4:13:19.325] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 897  [4:13:19.461] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 287 structureChanged: false Elapsed: 136ms
+Info 898  [4:13:19.461] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 899  [4:13:19.743] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 900  [4:13:19.818] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 288 structureChanged: false Elapsed: 75ms
+Info 901  [4:13:19.818] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 902  [4:13:20.414] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 903  [4:13:20.493] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 289 structureChanged: false Elapsed: 79ms
+Info 904  [4:13:20.493] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 905  [4:13:20.818] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 906  [4:13:20.875] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 290 structureChanged: false Elapsed: 57ms
+Info 907  [4:13:20.875] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 908  [4:13:21.270] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 909  [4:13:21.396] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 291 structureChanged: false Elapsed: 126ms
+Info 910  [4:13:21.396] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 911  [4:13:21.691] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 912  [4:13:21.759] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 292 structureChanged: false Elapsed: 68ms
+Info 913  [4:13:21.759] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 914  [4:14:57.880] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 915  [4:14:59.529] Elapsed:: 1649ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 916  [4:14:59.529] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 917  [4:14:59.590] Elapsed:: 61ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 918  [4:14:59.840] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 919  [4:15:1.871] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 293 structureChanged: true Elapsed: 2031ms
+Info 920  [4:15:1.871] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 921  [4:15:2.98] Before ensureProjectForOpenFiles:
+Info 922  [4:15:2.119] After ensureProjectForOpenFiles:
+Info 923  [4:15:8.562] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 924  [4:15:8.564] Elapsed:: 2ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 925  [4:15:8.564] DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 926  [4:15:8.569] Elapsed:: 5ms DirectoryWatcher:: Triggered with /var/www/angular-firebase/node_modules :: WatchInfo: /var/www/angular-firebase/node_modules 1 undefined Project: /var/www/angular-firebase/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 927  [4:15:8.820] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 928  [4:15:10.221] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 294 structureChanged: true Elapsed: 1401ms
+Info 929  [4:15:10.221] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 930  [4:15:11.70] Before ensureProjectForOpenFiles:
+Info 931  [4:15:11.70] After ensureProjectForOpenFiles:
+Info 932  [4:21:0.295] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 933  [4:21:0.372] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 295 structureChanged: false Elapsed: 68ms
+Info 934  [4:21:0.372] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 935  [4:21:0.442] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 936  [4:21:0.594] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 296 structureChanged: false Elapsed: 152ms
+Info 937  [4:21:0.594] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 938  [4:21:1.123] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 939  [4:21:1.191] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 297 structureChanged: false Elapsed: 68ms
+Info 940  [4:21:1.191] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 941  [4:21:1.558] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 942  [4:21:1.630] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 298 structureChanged: false Elapsed: 72ms
+Info 943  [4:21:1.630] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 944  [4:21:2.18] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 945  [4:21:2.170] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 299 structureChanged: false Elapsed: 152ms
+Info 946  [4:21:2.170] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 947  [4:21:4.379] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 948  [4:21:4.449] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 300 structureChanged: false Elapsed: 70ms
+Info 949  [4:21:4.449] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 950  [4:22:46.498] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 951  [4:22:46.751] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 301 structureChanged: false Elapsed: 245ms
+Info 952  [4:22:46.751] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 953  [4:22:47.151] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 954  [4:22:47.216] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 302 structureChanged: false Elapsed: 55ms
+Info 955  [4:22:47.216] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 956  [4:22:47.437] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 957  [4:22:47.566] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 303 structureChanged: false Elapsed: 129ms
+Info 958  [4:22:47.566] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 959  [4:22:47.792] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 960  [4:22:48.470] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 304 structureChanged: false Elapsed: 678ms
+Info 961  [4:22:48.470] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 962  [4:22:49.9] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 963  [4:22:49.423] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 305 structureChanged: false Elapsed: 414ms
+Info 964  [4:22:49.423] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 965  [4:22:51.115] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 966  [4:22:51.179] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 306 structureChanged: false Elapsed: 63ms
+Info 967  [4:22:51.179] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 968  [4:22:51.372] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 969  [4:22:51.439] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 307 structureChanged: false Elapsed: 67ms
+Info 970  [4:22:51.439] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 971  [4:22:51.640] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 972  [4:22:51.769] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 308 structureChanged: false Elapsed: 129ms
+Info 973  [4:22:51.769] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 974  [4:22:56.172] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 975  [4:22:56.235] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 309 structureChanged: false Elapsed: 63ms
+Info 976  [4:22:56.235] Different program with same set of files:: oldProgram.structureIsReused:: 2

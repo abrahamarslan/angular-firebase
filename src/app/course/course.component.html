@@ -1,1 +1,16 @@
-<p>course works!</p>
+<div class="courses-panel">
+    <h3>All courses</h3>
+    <mat-tab-group>
+        <mat-tab label="Beginners">
+            <app-courses-card-list [courses]="beginner | async">
+
+            </app-courses-card-list>
+        </mat-tab>
+
+        <mat-tab label="Advanced">
+            <app-courses-card-list [courses]="advanced | async">
+
+            </app-courses-card-list>
+        </mat-tab>
+    </mat-tab-group>
+</div>

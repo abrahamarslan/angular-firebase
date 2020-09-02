@@ -1,0 +1,8 @@
+[2020-09-02 18:15:01.337] [sharedprocess] [info] main {"machineId":"65ec9cf43ae62cd43d6c785935021dfaad06fc54a1e64210bb1987a46c1da34b","windowId":2}
+[2020-09-02 18:15:41.350] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-02 18:16:02.105] [sharedprocess] [info] Installing extension: fallenmax.mithril-emmet
+[2020-09-02 18:16:12.492] [sharedprocess] [info] Downloaded extension: fallenmax.mithril-emmet /var/www/angular-firebase/~/.vscode-root/CachedExtensionVSIXs/fallenmax.mithril-emmet-0.7.5
+[2020-09-02 18:16:13.768] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.fallenmax.mithril-emmet-0.7.5: fallenmax.mithril-emmet
+[2020-09-02 18:16:13.769] [sharedprocess] [info] Renamed to /root/.vscode/extensions/fallenmax.mithril-emmet-0.7.5
+[2020-09-02 18:16:13.770] [sharedprocess] [info] Installation completed. fallenmax.mithril-emmet
+[2020-09-02 18:16:21.793] [sharedprocess] [info] Extensions installed successfully: fallenmax.mithril-emmet

@@ -1,4 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
+import { Course } from 'src/model/course';
+import { MatDialog } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-courses-card-list',
@@ -6,10 +8,17 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./courses-card-list.component.css']
 })
 export class CoursesCardListComponent implements OnInit {
+  
+  @Input()
+  courses: Course[];
 
-  constructor() { }
+  constructor(private dialog: MatDialog) { }
 
   ngOnInit(): void {
+  }
+
+  editCourse() {
+    console.log('Edit course');
   }
 
 }

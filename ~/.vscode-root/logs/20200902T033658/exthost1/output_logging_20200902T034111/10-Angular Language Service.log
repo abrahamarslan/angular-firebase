@@ -1,0 +1,6 @@
+[Info  - 3:41:11 AM] Angular language server process ID: 4164
+[Info  - 3:41:11 AM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 3:41:11 AM] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 3:41:11 AM] Log file: /var/www/angular-firebase/~/.vscode-root/logs/20200902T033658/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 3:44:50 AM] Disabling language service for /var/www/angular-firebase/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Info  - 3:44:53 AM] Enabling language service for /var/www/angular-firebase/tsconfig.app.json.

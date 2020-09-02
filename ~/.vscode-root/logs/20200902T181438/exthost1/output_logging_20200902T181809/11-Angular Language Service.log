@@ -1,0 +1,4 @@
+[Info  - 6:18:09 PM] Angular language server process ID: 3680
+[Info  - 6:18:09 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 6:18:09 PM] Using @angular/language-service v10.0.14 from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 6:18:09 PM] Log file: /var/www/angular-firebase/~/.vscode-root/logs/20200902T181438/exthost1/Angular.ng-template/nglangsvc.log

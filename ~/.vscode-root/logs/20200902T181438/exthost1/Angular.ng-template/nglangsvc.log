@@ -1,0 +1,74 @@
+Info 0    [18:18:9.389] Format host information updated
+Info 1    [18:18:9.390] reload projects.
+Info 2    [18:18:9.390] Before ensureProjectForOpenFiles:
+Info 3    [18:18:9.390] After ensureProjectForOpenFiles:
+Info 4    [18:18:9.390] Host file extension mappings updated
+Info 5    [18:18:9.401] Search path: /var/www/angular-firebase/src/app/about
+Info 6    [18:18:9.405] For info: /var/www/angular-firebase/src/app/about/about.component.ts :: Config file name: /var/www/angular-firebase/tsconfig.json
+Info 7    [18:18:9.405] Opened configuration file /var/www/angular-firebase/tsconfig.json
+Info 8    [18:18:9.415] Config: /var/www/angular-firebase/tsconfig.json : {
+ "rootNames": [],
+ "options": {
+  "configFilePath": "/var/www/angular-firebase/tsconfig.json"
+ },
+ "projectReferences": [
+  {
+   "path": "/var/www/angular-firebase/tsconfig.app.json",
+   "originalPath": "./tsconfig.app.json"
+  },
+  {
+   "path": "/var/www/angular-firebase/tsconfig.spec.json",
+   "originalPath": "./tsconfig.spec.json"
+  }
+ ]
+}
+Info 9    [18:18:9.416] Loading global plugin @angular/language-service
+Info 10   [18:18:9.416] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [18:18:9.416] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [18:18:9.698] Plugin validation succeded
+Info 13   [18:18:9.735] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json
+Info 14   [18:18:9.783] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json Version: 1 structureChanged: true Elapsed: 48ms
+Info 15   [18:18:9.783] Project '/var/www/angular-firebase/tsconfig.json' (Configured)
+Info 16   [18:18:9.783] 	Files (0)
+
+Info 17   [18:18:9.783] -----------------------------------------------
+Info 18   [18:18:9.784] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json
+Info 19   [18:18:9.784] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.json Version: 2 structureChanged: false Elapsed: 0ms
+Info 20   [18:18:9.786] Disabling language service for /var/www/angular-firebase/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [18:18:9.787] Opened configuration file /var/www/angular-firebase/tsconfig.app.json
+Info 22   [18:18:9.793] Config: /var/www/angular-firebase/tsconfig.app.json : {
+ "rootNames": [
+  "/var/www/angular-firebase/src/main.ts",
+  "/var/www/angular-firebase/src/polyfills.ts"
+ ],
+ "options": {
+  "baseUrl": "/var/www/angular-firebase",
+  "outDir": "/var/www/angular-firebase/out-tsc/app",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "types": [],
+  "configFilePath": "/var/www/angular-firebase/tsconfig.app.json"
+ }
+}
+Info 23   [18:18:9.795] Loading global plugin @angular/language-service
+Info 24   [18:18:9.795] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1000.8/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 25   [18:18:9.795] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1000.8/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 26   [18:18:9.801] Plugin validation succeded
+Info 27   [18:18:9.802] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 28   [18:21:6.546] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 1 structureChanged: true Elapsed: 176744ms
+Info 29   [18:21:6.575] Project '/var/www/angular-firebase/tsconfig.app.json' (Configured)
+Info 30   [18:21:6.575] 	Files (528)
+
+Info 31   [18:21:6.575] -----------------------------------------------
+Info 32   [18:21:6.578] Starting updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json
+Info 33   [18:21:6.589] Finishing updateGraphWorker: Project: /var/www/angular-firebase/tsconfig.app.json Version: 2 structureChanged: false Elapsed: 11ms

@@ -6,3 +6,5 @@
 [Info  - 9:35:28 PM] Disabling language service for /var/www/angular-firebase/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
 [Info  - 9:35:28 PM] Enabling language service for /var/www/angular-firebase/tsconfig.app.json.
 [Info  - 9:35:31 PM] Enabling language service for /var/www/angular-firebase/tsconfig.spec.json.
+[Error - 12:37:40 AM] No config file for /var/www/angular-firebase/node_modules/@angular/material/tabs/index.d.ts
+[Error - 12:39:13 AM] No config file for /var/www/angular-firebase/node_modules/@angular/material/sidenav/sidenav-module.d.ts
