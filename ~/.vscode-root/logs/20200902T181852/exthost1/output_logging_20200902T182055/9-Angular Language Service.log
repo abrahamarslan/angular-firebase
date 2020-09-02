@@ -7,3 +7,7 @@
 [Info  - 6:21:52 PM] Enabling language service for /var/www/angular-firebase/tsconfig.spec.json.
 [Error - 6:21:52 PM] No config file for /var/www/angular-firebase/src/app/course/course.component.html
 [Error - 6:32:10 PM] No config file for /usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts
+[Error - 10:53:17 PM] No config file for /var/www/angular-firebase/node_modules/@angular/fire/firestore/angular-fire-firestore.d.ts
+[Error - 10:53:25 PM] No config file for /var/www/angular-firebase/node_modules/rxjs/operators/index.d.ts
+[Error - 10:53:30 PM] No config file for /var/www/angular-firebase/node_modules/rxjs/internal/Observable.d.ts
+[Error - 11:05:38 PM] No config file for /var/www/angular-firebase/node_modules/@angular/fire/firestore/collection/collection.d.ts

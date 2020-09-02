@@ -366,3 +366,185 @@ Open repository: /var/www/angular-firebase
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/course/course.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git show --textconv :src/app/services/course-service.service.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/app/course/course.component.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/course/course.component.ts
+> git cat-file -s 7cce2699690ad8cdb315b945b3c52919f8b381bf
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -6,3 +6,4 @@
 [2020-09-02 19:46:02.160] [renderer1] [warning] {}
 [2020-09-02 19:46:10.736] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.html-language-features' took 100% of 1813ms, saved PROFILE here: '/tmp/exthost-f4da67.cpuprofile' [{"id":"vscode.html-language-features","total":1812869,"percentage":100}]
 [2020-09-02 19:49:54.864] [renderer1] [warning] {}
+[2020-09-02 23:00:54.943] [renderer1] [warning] UNRESPONSIVE extension host, 'eamodio.gitlens' took 100% of 93821.161ms, saved PROFILE here: '/tmp/exthost-e4c535.cpuprofile' [{"id":"eamodio.gitlens","total":93819813,"percentage":100},{"id":"self","total":208,"percentage":0},{"id":"vscode.typescript-language-features","total":966,"percentage":0}]
