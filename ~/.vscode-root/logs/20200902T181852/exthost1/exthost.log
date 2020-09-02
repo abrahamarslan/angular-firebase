@@ -72,3 +72,9 @@
     at U.resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:691:132)
     at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-09-03 02:42:40.337] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-09-03 02:42:40.477] [exthost] [error] Error: DisposableStore is missing...
+    at U._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:691:365)
+    at U.resolveCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:691:132)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)

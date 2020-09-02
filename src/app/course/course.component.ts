@@ -20,10 +20,11 @@ export class CourseComponent implements OnInit {
 
   ngOnInit(): void {
       this.courses = this.courseService.getCourses();
+      console.log(this.courses);
       this.beginner = this.courses.pipe(map(courses => courses.filter(course => course.categories.includes("BEGINNER"))));
       this.advanced = this.courses.pipe(map(courses => {
         return courses.filter(course => course.categories.includes("ADVANCED"));
-      }))
+      })) 
       //.subscribe(snaps => {        
         // const courses: Course[] = snaps.map(snap => {
         //   return <Course> {

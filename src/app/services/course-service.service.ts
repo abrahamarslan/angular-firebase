@@ -14,7 +14,9 @@ export class CourseServiceService {
   getCourses(): Observable<Course[]> {
     return this.db.collection('courses', ref => 
                             //ref.orderBy('seqNo')
-                            ref.where('seqNo','==','2')
+                            //ref.where("seqNo",">",2)                            
+                            //ref.orderBy("seqNo").startAt(0).endAt(5) //Pagination logic
+                            ref.where('categories', "array-contains", "BEGINNER")
                             )
                       .snapshotChanges()
                       .pipe(map(snaps => {
