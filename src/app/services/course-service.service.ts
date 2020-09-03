@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore';
 import { filter, map, first } from 'rxjs/operators';
 import { Course } from 'src/model/course';
-import { Observable } from 'rxjs';
+import {from, Observable} from 'rxjs';
 import {convertSnaps} from './db-utils';
 import {Lesson} from '../../model/lesson';
 import OrderByDirection = firebase.firestore.OrderByDirection;
@@ -44,5 +44,9 @@ export class CourseServiceService {
         map(snaps => convertSnaps(snaps)),
         first()
       );
+  }
+
+  saveCourse(id: string, updates: Partial<Course>): Observable<any> {
+    return from(this.db.doc(`courses/${id}`).update(updates));
   }
 }

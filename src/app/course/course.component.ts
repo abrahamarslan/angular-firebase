@@ -15,17 +15,12 @@ export class CourseComponent implements OnInit {
   courses: Observable<Course[]>;
   beginner: Observable<Course[]>;
   advanced: Observable<Course[]>;
-  constructor(private courseService: CourseServiceService) { 
+  constructor(private courseService: CourseServiceService) {
   }
 
   ngOnInit(): void {
-      this.courses = this.courseService.getCourses();
-      console.log(this.courses);
-      this.beginner = this.courses.pipe(map(courses => courses.filter(course => course.categories.includes("BEGINNER"))));
-      this.advanced = this.courses.pipe(map(courses => {
-        return courses.filter(course => course.categories.includes("ADVANCED"));
-      })) 
-      //.subscribe(snaps => {        
+       this.reloadCourses();
+      //.subscribe(snaps => {
         // const courses: Course[] = snaps.map(snap => {
         //   return <Course> {
         //     id: snap.payload.doc.id,
@@ -33,5 +28,14 @@ export class CourseComponent implements OnInit {
         //   }
         // })
       //});
+  }
+
+  reloadCourses() {
+    this.courses = this.courseService.getCourses();
+    console.log(this.courses);
+    this.beginner = this.courses.pipe(map(courses => courses.filter(course => course.categories.includes("BEGINNER"))));
+    this.advanced = this.courses.pipe(map(courses => {
+      return courses.filter(course => course.categories.includes("ADVANCED"));
+    }));
   }
 }

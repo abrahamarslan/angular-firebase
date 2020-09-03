@@ -30,6 +30,8 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {MatMomentDateModule} from "@angular/material-moment-adapter";
 import { SingleComponent } from './single/single.component';
+import { CourseDialogComponent } from './course-dialog/course-dialog.component';
+import {AngularFirestoreModule} from '@angular/fire/firestore';
 
 
 @NgModule({
@@ -38,7 +40,8 @@ import { SingleComponent } from './single/single.component';
     CourseComponent,
     CoursesCardListComponent,
     AboutComponent,
-    SingleComponent
+    SingleComponent,
+    CourseDialogComponent
   ],
   imports: [
     BrowserModule,
@@ -63,6 +66,7 @@ import { SingleComponent } from './single/single.component';
         MatDatepickerModule,
         MatMomentDateModule,
         ReactiveFormsModule,
+        AngularFirestoreModule.enablePersistence(), //Offline syncing.
         AngularFireModule.initializeApp(environment.firebase),
         BrowserAnimationsModule
   ],
