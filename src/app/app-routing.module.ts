@@ -6,10 +6,10 @@ import {SingleComponent} from './single/single.component';
 import {CourseResolver} from '../resolvers/course.resolve';
 
 const routes: Routes = [
-  { path: '**', redirectTo: '/about' },
   { path: 'about', component: AboutComponent },
   { path: 'courses', component: CourseComponent },
   { path: 'course/:url', component: SingleComponent, resolve: { course: CourseResolver } },
+  { path: '**', redirectTo: '/about' },
 
 ];
 
