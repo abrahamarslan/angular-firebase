@@ -673,3 +673,98 @@ Open repository: /var/www/angular-firebase
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/angular-firebase/src/app/services/course-service.service.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git cat-file -s 9427be3d03b24a3b6dd59d9c62d3969d218e3030
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show --textconv :src/app/services/course-service.service.ts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s 708b615dba2fdac5eeda23a934357f2dbcf0fef5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s 708b615dba2fdac5eeda23a934357f2dbcf0fef5
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.module.ts
+> git cat-file -s c08a15446654d9c2a614f2388b43fdb08bc3f728
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s 708b615dba2fdac5eeda23a934357f2dbcf0fef5
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app.module.ts
+> git cat-file -s c08a15446654d9c2a614f2388b43fdb08bc3f728
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /var/www/angular-firebase/src/app/app-routing.module.ts
+> git cat-file -s 708b615dba2fdac5eeda23a934357f2dbcf0fef5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -29,6 +29,7 @@ import { MatTableModule } from '@angular/material/table';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {MatMomentDateModule} from "@angular/material-moment-adapter";
+import { SingleComponent } from './single/single.component';
 
 
 @NgModule({
@@ -36,7 +37,8 @@ import {MatMomentDateModule} from "@angular/material-moment-adapter";
     AppComponent,
     CourseComponent,
     CoursesCardListComponent,
-    AboutComponent
+    AboutComponent,
+    SingleComponent
   ],
   imports: [
     BrowserModule,
