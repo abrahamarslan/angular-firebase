@@ -32,6 +32,9 @@ import {MatMomentDateModule} from "@angular/material-moment-adapter";
 import { SingleComponent } from './single/single.component';
 import { CourseDialogComponent } from './course-dialog/course-dialog.component';
 import {AngularFirestoreModule} from '@angular/fire/firestore';
+import { BatchUpdateComponent } from './batch-update/batch-update.component';
+import { TransactionComponent } from './transaction/transaction.component';
+import { DocReferencesComponent } from './doc-references/doc-references.component';
 
 
 @NgModule({
@@ -41,7 +44,10 @@ import {AngularFirestoreModule} from '@angular/fire/firestore';
     CoursesCardListComponent,
     AboutComponent,
     SingleComponent,
-    CourseDialogComponent
+    CourseDialogComponent,
+    BatchUpdateComponent,
+    TransactionComponent,
+    DocReferencesComponent
   ],
   imports: [
     BrowserModule,
