@@ -35,6 +35,8 @@ import {AngularFirestoreModule} from '@angular/fire/firestore';
 import { BatchUpdateComponent } from './batch-update/batch-update.component';
 import { TransactionComponent } from './transaction/transaction.component';
 import { DocReferencesComponent } from './doc-references/doc-references.component';
+import {AngularFireAuthModule} from '@angular/fire/auth';
+import { LoginComponent } from './login/login.component';
 
 
 @NgModule({
@@ -47,7 +49,8 @@ import { DocReferencesComponent } from './doc-references/doc-references.componen
     CourseDialogComponent,
     BatchUpdateComponent,
     TransactionComponent,
-    DocReferencesComponent
+    DocReferencesComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
@@ -72,8 +75,10 @@ import { DocReferencesComponent } from './doc-references/doc-references.componen
         MatDatepickerModule,
         MatMomentDateModule,
         ReactiveFormsModule,
-        AngularFirestoreModule.enablePersistence(), //Offline syncing.
+        //AngularFirestoreModule.enablePersistence(), //Offline syncing.
         AngularFireModule.initializeApp(environment.firebase),
+        AngularFireAuthModule,
+        AngularFirestoreModule,
         BrowserAnimationsModule
   ],
   providers: [],

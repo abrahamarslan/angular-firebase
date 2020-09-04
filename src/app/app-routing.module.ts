@@ -7,10 +7,12 @@ import {CourseResolver} from '../resolvers/course.resolve';
 import {BatchUpdateComponent} from './batch-update/batch-update.component';
 import {TransactionComponent} from './transaction/transaction.component';
 import {DocReferencesComponent} from './doc-references/doc-references.component';
+import {LoginComponent} from './login/login.component';
 
 const routes: Routes = [
   { path: 'about', component: AboutComponent },
   { path: 'courses', component: CourseComponent },
+  { path: 'login', component: LoginComponent },
   { path: 'batch-update', component: BatchUpdateComponent },
   { path: 'transaction', component: TransactionComponent },
   { path: 'doc-reference', component: DocReferencesComponent },
