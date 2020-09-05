@@ -3,6 +3,9 @@ import {FormBuilder, FormGroup, Validators} from '@angular/forms';
 import {MAT_DIALOG_DATA, MatDialogRef} from '@angular/material/dialog';
 import {Course} from '../../model/course';
 import {CourseServiceService} from '../services/course-service.service';
+import {AngularFireStorage} from '@angular/fire/storage';
+import {Observable} from 'rxjs';
+import {concatMap, last} from 'rxjs/operators';
 
 @Component({
   selector: 'app-course-dialog',
@@ -14,11 +17,14 @@ export class CourseDialogComponent implements OnInit {
   form: FormGroup;
   description: string;
   course: Course;
+  uploadPercentage: Observable<number>;
+  downloadURL: Observable<string>;
 
   constructor(private fb: FormBuilder,
               private dialogRef: MatDialogRef<CourseDialogComponent>,
               @Inject(MAT_DIALOG_DATA) course: Course,
-              private db: CourseServiceService
+              private db: CourseServiceService,
+              private storage: AngularFireStorage
   ) {
     this.course = course;
     const titles = course.titles;
@@ -41,5 +47,18 @@ export class CourseDialogComponent implements OnInit {
       .subscribe(
         () => this.dialogRef.close(this.form.value)
       );
+  }
+
+  uploadFile(event): void {
+    const file: File = event.target.files[0];
+    const filePath = `courses/${this.course.id}/${file.name}`;
+    const task = this.storage.upload(filePath, file);
+    //task.snapshotChanges().subscribe();
+    this.uploadPercentage = task.percentageChanges();
+    this.downloadURL = task.snapshotChanges()
+      .pipe(last(), concatMap(() => this.storage.ref(filePath).getDownloadURL()));
+    //Save the URL in the database
+    const saveURL = this.downloadURL.pipe(concatMap(url => this.db.saveCourse(this.course.id, {uploadedImageUrl: url})));
+    saveURL.subscribe(downloadURL => console.log(downloadURL));
   }
 }
